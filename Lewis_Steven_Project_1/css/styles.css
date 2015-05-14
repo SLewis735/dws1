@@ -15,6 +15,7 @@ nav {
 }
 a {
 	display: block;
+	border: 20px #450003;
 }
 h1 { 
 	color: #bcc6cc;

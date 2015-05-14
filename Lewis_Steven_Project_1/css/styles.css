@@ -9,7 +9,7 @@ nav {
 	font-size: 18px;
 	font-family: Arial, Verdana, sans serif;
 	list-style: none;	
-	display: inline;
+	display: inline-block;
 	border: 30px #000000;
 	}
 }

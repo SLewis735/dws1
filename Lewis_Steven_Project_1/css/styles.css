@@ -1,7 +1,9 @@
 
 body {
 	background-color:rgba(255,29,35,0.4);
-	color:#450003; 
+	color:#450003;
+	display: inline-block;
+	text-align: center; 
 }
 .nav li {
 	color:#94090d;
@@ -77,10 +79,6 @@ p {
 	margin-right: 10px;
 	margin-bottom: 5px;
 	margin-left: 10px;
-}
-.images {
-	display: inline-block;
-	text-align: center;
 }
 figcaption { 
 	color:#450003;

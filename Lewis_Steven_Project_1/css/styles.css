@@ -4,12 +4,14 @@ body {
 	color:#450003;
 }
 nav {
+	li {
 	color:#94090d;
 	font-size: 18px;
 	font-family: Arial, Verdana, sans serif;
 	list-style: none;	
 	display: inline;
 	border: 30px #000000;
+	}
 }
 h1 { 
 	color: #bcc6cc;

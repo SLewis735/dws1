@@ -80,6 +80,7 @@ p {
 }
 .images {
 	display: inline-block;
+	text-align: center;
 }
 figcaption { 
 	color:#450003;

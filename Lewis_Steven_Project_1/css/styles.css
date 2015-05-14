@@ -28,9 +28,12 @@ h1 {
 	background-color: rgba(148,9,13,0.7);
 	font-size: 98px;
 	font-family: 'Pacifico', cursive;
+	text-shadow: 5px 5px 10px #000;
 	border-width: 20px 16px 20px 16px;
 	border-style: ridge;
 	border-color: #450003 #000000;
+	border-radius: 8px;
+	box-shadow: 5px 10px 10px 5px #000;
 	width: 90%;
 	height: 80%;
 	padding: 50px 90px;

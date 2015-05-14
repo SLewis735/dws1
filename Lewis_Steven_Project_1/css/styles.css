@@ -52,3 +52,9 @@ a:active {
 	color: black;
 	text-decoration: none;
 }
+ol {
+	list-style-type: lower roman;
+}
+ul {
+	list-style-type: square;
+}

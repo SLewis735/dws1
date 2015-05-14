@@ -7,9 +7,9 @@ nav {
 	color:#94090d;
 	font-size: 18px;
 	font-family: Arial, Verdana, sans serif;
-	ul {
-		display: inline;	
-		}
+}
+li {
+	display: inline;	
 }
 h1 { 
 	color: #bcc6cc;

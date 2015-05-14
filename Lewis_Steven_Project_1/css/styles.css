@@ -109,7 +109,6 @@ ul {
 	font-family: Helvetica, Verdana, sans serif;
 	list-style-type: square;
 }
-.menu {
-	display: inline-block;
+.menu ul{
 	text-align: center;
 }

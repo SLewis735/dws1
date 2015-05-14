@@ -1,7 +1,4 @@
-@font-face {
-	font-family: 'Pacifico', Comic Sans MS, cursive;
-	src: @import url(http://fonts.googleapis.com/css?family=Pacifico);
-format(normal 400);
+	
 }
 body {
 	background-color:rgba(255,29,35,0.4);
@@ -14,7 +11,7 @@ nav {
 }
 h1 { 
 	color:#94090d;
-	font-family: Pacifico, Comic Sans MS, Arial;
+	font-family: 'Pacifico', cursive;
 	font-size: 48px;
 }
 h2 {

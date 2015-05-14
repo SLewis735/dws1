@@ -1,8 +1,7 @@
 
 body {
 	background-color:rgba(255,29,35,0.4);
-	color:#450003;
-	 
+	color:#450003; 
 }
 .nav li {
 	color:#94090d;
@@ -109,4 +108,8 @@ ul {
 	font-size: 16px;
 	font-family: Helvetica, Verdana, sans serif;
 	list-style-type: square;
+}
+.menu {
+	display: inline-block;
+	text-align: center;
 }

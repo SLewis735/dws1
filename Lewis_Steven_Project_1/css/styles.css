@@ -7,8 +7,9 @@ nav {
 	color:#94090d;
 	font-size: 18px;
 	font-family: Arial, Verdana, sans serif;
-	border: black;
-	display: inline-block;	
+	list-style: none;	
+	display: inline;
+	border: 30px #000000;
 }
 h1 { 
 	color: #bcc6cc;
@@ -25,7 +26,6 @@ h1 {
 }
 h2 {
 	color:#94090d;
-	text-shadow: 5px;
 	font-weight: bold;
 	font-size: 30px;
 	font-family: Comic Sans MS, Arial, sans serif;

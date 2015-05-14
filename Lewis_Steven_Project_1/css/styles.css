@@ -11,14 +11,14 @@ nav {
 h1 { 
 	color: #bcc6cc;
 	background-color: rgba(148,9,13,0.2);
-	font-size: 72px;
+	font-size: 96px;
 	font-family: 'Pacifico', cursive;
 	border-width: 20px 16px 20px 16px;
 	border-style: ridge;
 	border-color: #450003 #000000;
 	width: 90%;
 	height: 80%;
-	padding: 50px 80px;
+	padding: 50px auto;
 	margin: 100px auto;
 }
 h2 {

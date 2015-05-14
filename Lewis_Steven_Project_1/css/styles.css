@@ -53,7 +53,7 @@ a:active {
 	text-decoration: none;
 }
 ol {
-	list-style-type: lower roman;
+	list-style-type: lower-roman;
 }
 ul {
 	list-style-type: square;

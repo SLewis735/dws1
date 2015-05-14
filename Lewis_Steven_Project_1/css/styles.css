@@ -10,6 +10,7 @@ nav {
 }
 h1 { 
 	color: white;
+	background-color: #94090d;
 	font-size: 72px;
 	font-family: 'Pacifico', cursive;
 	border-width: 20px 16px 20px 16px;
@@ -18,7 +19,7 @@ h1 {
 	width: 90%;
 	height: 80%;
 	padding: 10px 20px;
-	margin: 50px;
+	margin: 80px 50px;
 }
 h2 {
 	color:#94090d;

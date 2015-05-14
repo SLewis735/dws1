@@ -16,6 +16,9 @@ body {
 	margin-bottom: 5px;
 	margin-left: 10px; 
 }
+.images {
+	display: inline-block;
+}
 .nav li {
 	color:#94090d;
 	font-size: 30px;
@@ -111,5 +114,6 @@ ul {
 	font-size: 16px;
 	font-family: Helvetica, Verdana, sans serif;
 	list-style-type: square;
-	
+	display: inline-block;
+	text-align: center;	
 }

@@ -10,13 +10,14 @@ nav {
 	font-family: Arial, Verdana, sans serif;
 	list-style: none;	
 	display: inline-block;
-	border: 30px #000000;
+	border-width: 20px;
+	border-color: #000000;
 	}
 }
 a {
-	
 	border-color: #450003;
-	border: 20px;
+	border-width: 10px;
+	border-style: ridge;
 }
 h1 { 
 	color: #bcc6cc;

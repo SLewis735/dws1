@@ -9,15 +9,17 @@ nav {
 	font-size: 18px;
 	font-family: Arial, Verdana, sans serif;
 	list-style: none;	
-	display: inline-block;
-	border-width: 20px;
+	display: inline;
+	border-width: 10px;
 	border-color: #000000;
 	}
 }
 a {
 	border-color: #450003;
-	border-width: 10px;
+	border-width: 5px;
 	border-style: ridge;
+	width: 300px;
+	height: 200px;
 }
 h1 { 
 	color: #bcc6cc;

@@ -10,9 +10,11 @@ body {
 	list-style: none;	
 	display: inline;
 	border-style: solid;
-	border-width: 10px;
+	border-width: 7px;
 	border-color: #000;
+	background-color: rgba(148,9,13,0.7);
 	padding: 10px;
+	margin: 10px auto;
 }
 div id "gallery" {
 	border-color: #450003;

@@ -9,12 +9,15 @@ body {
 	font-family: Arial, Verdana, sans serif;
 	list-style: none;	
 	display: inline;
+	text-shadow: 2px 2px 6px #000;
 	border-style: solid;
 	border-width: 7px;
 	border-color: #000;
 	background-color: rgba(148,9,13,0.7);
+	border-radius: 6px;
+	box-shadow: 3px 7px 7px 3px #000
 	padding: 10px;
-	margin: 100px auto;
+	margin: 200px auto;
 }
 div id "gallery" {
 	border-color: #450003;

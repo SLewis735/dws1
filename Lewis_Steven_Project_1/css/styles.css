@@ -2,6 +2,7 @@
 body {
 	background-color:rgba(255,29,35,0.4);
 	color:#450003;
+	text-align: center;
 }	
 .middle {
 	border-style: solid;
@@ -9,40 +10,11 @@ body {
 	border-color: #000;
 	background-color: #bcc6cc;
 	border-radius: 6px;
-	box-shadow: 5px 10px 10px 5px #000
 	padding: 5px;
 	margin-top: 20px;
 	margin-right: 10px;
 	margin-bottom: 5px;
 	margin-left: 10px; 
-}
-.menu {
-	border-style: solid;
-	border-width: 5px;
-	border-color: #000;
-	background-color: #bcc6cc;
-	border-radius: 6px;
-	box-shadow: 5px 10px 10px 5px #000
-	padding: 20px;
-	display: inline-block;
-	margin-top: 20px;
-	margin-right: 300px;
-	margin-bottom: 5px;
-	margin-left: 500px;
-}
-.recipes {
-	border-style: solid;
-	border-width: 5px;
-	border-color: #000;
-	background-color: #bcc6cc;
-	border-radius: 6px;
-	box-shadow: 5px 10px 10px 5px #000
-	padding: 20px;
-	display: inline;
-	margin-top: 20px;
-	margin-right: 300px;
-	margin-bottom: 5px;
-	margin-left: 400px;
 }
 .nav li {
 	color:#94090d;

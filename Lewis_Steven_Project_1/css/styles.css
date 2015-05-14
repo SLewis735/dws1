@@ -8,7 +8,7 @@ nav {
 	font-size: 18px;
 	font-family: Arial, Verdana, sans serif;
 	li {
-		display: inline;
+		display: inline-block;
 		}	
 }
 h1 { 

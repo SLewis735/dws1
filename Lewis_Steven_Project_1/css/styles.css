@@ -12,8 +12,9 @@ h1 {
 	color:#94090d;
 	font-size: 72px;
 	font-family: 'Pacifico', cursive;
-	border-width: 4px 2px 4px 2px;
-	border-style: double;
+	border-width: 20px 16px 20px 16px;
+	border-style: ridge;
+	border-color: #450003 #000000;
 }
 h2 {
 	color:#94090d;

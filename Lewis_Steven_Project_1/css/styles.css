@@ -24,6 +24,7 @@ h1 {
 }
 h2 {
 	color:#94090d;
+	text-shadow: black;
 	font-weight: bold;
 	font-size: 30px;
 	font-family: Comic Sans MS, Arial, sans serif;

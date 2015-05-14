@@ -13,6 +13,9 @@ nav {
 	border: 30px #000000;
 	}
 }
+a {
+	display: block;
+}
 h1 { 
 	color: #bcc6cc;
 	background-color: rgba(148,9,13,0.7);

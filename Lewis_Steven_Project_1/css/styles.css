@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'Pacifico', Comic Sans MS, cursive;
-	src: url(http://fonts.googleapis.com/css?family=Pacifico);
+	src: @import url(http://fonts.googleapis.com/css?family=Pacifico);
 format(normal 400);
 }
 body {

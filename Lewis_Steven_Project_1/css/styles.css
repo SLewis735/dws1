@@ -23,7 +23,7 @@ body {
 	background-color: #bcc6cc;
 	border-radius: 6px;
 	box-shadow: 5px 10px 10px 5px #000
-	padding: 10px;
+	padding: 20px;
 	display: inline-block;
 	margin-top: 20px;
 	margin-right: 300px;
@@ -37,12 +37,12 @@ body {
 	background-color: #bcc6cc;
 	border-radius: 6px;
 	box-shadow: 5px 10px 10px 5px #000
-	padding: 10px;
-	display: inline-block;
+	padding: 20px;
+	display: inline;
 	margin-top: 20px;
 	margin-right: 300px;
 	margin-bottom: 5px;
-	margin-left: 500px;
+	margin-left: 400px;
 }
 .nav li {
 	color:#94090d;

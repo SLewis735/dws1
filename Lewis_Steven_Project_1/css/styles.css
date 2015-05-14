@@ -103,18 +103,8 @@ ol {
 	font-size: 16px;
 	font-family: Helvetica, Verdana, sans serif;
 	list-style-type: lower-roman;
-	border-style: solid;
-	border-width: 5px;
-	border-color: #000;
-	background-color: #bcc6cc;
-	border-radius: 6px;
-	padding: 5px;
-	margin-top: 20px;
-	margin-right: 10px;
-	margin-bottom: 5px;
-	margin-left: 10px;
 	display: inline-block;
-	text-align:left;	 
+	text-align: center;	 
 }
 ul {
 	font-size: 16px;

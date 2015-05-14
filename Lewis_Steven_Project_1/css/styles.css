@@ -105,13 +105,9 @@ ol {
 	font-size: 16px;
 	font-family: Helvetica, Verdana, sans serif;
 	list-style-type: lower-roman;
-	display: inline-block;
-	text-align: center; 
 }
 ul {
 	font-size: 16px;
 	font-family: Helvetica, Verdana, sans serif;
 	list-style-type: square;
-	display: inline-block;
-	text-align: center;
 }

@@ -117,6 +117,7 @@ ul {
 	height: 200px;
 	margin-left: auto;
     margin-right: auto;
+    line-height: 2px;
 }
 .next-frame {
 	border: 3px solid #5c0002;

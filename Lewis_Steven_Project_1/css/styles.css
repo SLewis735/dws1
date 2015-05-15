@@ -131,7 +131,7 @@ ul {
 }
 .list {
 	text-align: center;
-	list-style: none;
+	list-style-type: none;
 	display: block;
 	margin-left: auto;
     margin-right: auto;

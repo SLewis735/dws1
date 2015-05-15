@@ -120,15 +120,18 @@ ul {
 	margin-left: auto;
     margin-right: auto;
     margin-bottom: 40px;
-    line-height: -2.5px;
+    line-height: -4.5px;
 }
 .next-frame {
 	border: 3px solid #5c0002;
 	display: block;
 	width: 200px;
 	height: 100px;
+	margin-top: 60px;
 	margin-left: auto;
     margin-right: auto;
+    margin-bottom: 40px;
+    line-height: -4.5px;
 }
 .list {
 	text-align: center;

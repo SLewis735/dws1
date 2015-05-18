@@ -60,6 +60,9 @@ h1 {
     margin: 30px auto;
 }
 h2 {
+	background-image: url("../images/1431907239_chicken-24.png");
+	background-repeat: no-repeat;
+	background-position: 50%;
     color:#94090d;
     font-weight: bold;
     font-size: 30px;
@@ -78,10 +81,6 @@ h5 {
     color:#d40d12;
     font-size: 18px;
     font-family: Arial, Verdana, sans serif;
-}
-.icon h2 {
-	background-image: url("../images/1431907239_chicken-24.png");
-	background-repeat: no-repeat;
 }
 
 /* paragraph and caption styling */

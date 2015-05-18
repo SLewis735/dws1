@@ -79,7 +79,7 @@ h5 {
     font-size: 18px;
     font-family: Arial, Verdana, sans serif;
 }
-#icon {
+.icon {
 	background-image: url("../images/1431907239_chicken-24.png");
 	background-repeat: no-repeat;
 }

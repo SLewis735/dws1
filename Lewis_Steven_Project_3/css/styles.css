@@ -1,7 +1,7 @@
 /* body styling */
 
 body {
-    background-color:rgba(255,29,35,0.4);
+    background:rgba(255,29,35,0.4, #777);
     background-image: url("../images/chef_512x512x32.png");
     background-repeat: no-repeat;
     background-position: right;

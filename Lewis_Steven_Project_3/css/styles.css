@@ -1,7 +1,7 @@
 /* body styling */
 
 body {
-    background: linear-gradient(rgba(255,29,35,0.4) #777);
+    background: linear-gradient(rgba(255,29,35,0.4) rgba(119,119,119,1);
     background-image: url("../images/chef_512x512x32.png");
     background-repeat: no-repeat;
     background-position: right;

@@ -43,6 +43,7 @@ body {
 /* headers styling */
 
 h1 {
+	background-image: url("../images/risen.gif");
     color: #bcc6cc;
     background-color: rgba(148,9,13,0.7);
     font-size: 84px;

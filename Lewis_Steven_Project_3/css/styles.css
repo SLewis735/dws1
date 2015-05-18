@@ -4,7 +4,7 @@ body {
     background-color:rgba(255,29,35,0.4);
     background-image: url("../images/chef_512x512x32.png");
     background-repeat: no-repeat;
-    background-position: fixed right;
+    background-position: right;
     color:#450003;
     text-align: center;
 }

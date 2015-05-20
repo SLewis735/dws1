@@ -97,6 +97,7 @@ p { background-image: url("../images/risen.gif");
     text-align: justify;
     text-indent: 25px;
     padding: 20px;
+    border-radius: 5px;
 }
 figcaption {
     color:#450003;

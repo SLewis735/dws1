@@ -8,7 +8,7 @@ body {
     background-attachment: fixed;
     color:#450003;
     text-align: center;
-    display: inline;
+    display: inline-block;
 }
 #middle {
     border-style: solid;

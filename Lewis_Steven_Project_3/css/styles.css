@@ -13,7 +13,7 @@ body {
     border-width: 5px;
     border-color: #000;
     border-radius: 6px;
-    color: #bcc6cc;
+    background: linear-gradient(#bcc6cc, #777);
     padding: 5px;
     margin: 20px 10px 5px 10px;
 }

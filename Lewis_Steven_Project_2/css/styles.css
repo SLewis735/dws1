@@ -79,6 +79,7 @@ h5 {
 #icon {
 	background-image: url("../images/1431907239_chicken-24.png");
 	background-repeat: no-repeat;
+	background-position: 35%;
 }
 /* paragraph and caption styling */
 
@@ -145,10 +146,7 @@ ul {
 	display: block;
 	width: 300px;
 	height: 200px;
-	margin-top: 60px;
-	margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 40px;
+	margin: 60px auto 40px auto;
 }
 .next-frame {
 	border: 3px solid #5c0002;

@@ -57,6 +57,9 @@ h1 {
     margin: 30px auto;
 }
 h2 {
+	background-image: url("../images/1431907239_chicken-24.png");
+	background-repeat: no-repeat;
+	background-position: 30%;
     color:#94090d;
     font-weight: bold;
     font-size: 30px;
@@ -87,6 +90,7 @@ p {
     font-size: 20px;
     text-align: justify;
     text-indent: 25px;
+    border-radius: 10px;
     padding: 20px;
 }
 

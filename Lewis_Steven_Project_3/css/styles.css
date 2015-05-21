@@ -59,7 +59,7 @@ h1 {
 h2 {
 	background-image: url("../images/1431907239_chicken-24.png");
 	background-repeat: no-repeat;
-	background-position: 30%;
+	background-position: 5%;
     color:#94090d;
     font-weight: bold;
     font-size: 40px;
@@ -72,7 +72,7 @@ h3,h4 {
     font-style: italic;
     font-size: 24px;
     font-family: Arial, Verdana, sans serif;
-    text-align: center;
+    text-align: left;
 }
 h5 {
     color:#d40d12;

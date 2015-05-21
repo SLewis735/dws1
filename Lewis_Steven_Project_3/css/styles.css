@@ -16,10 +16,7 @@ body {
     background: linear-gradient(#bcc6cc, #777);
     border-radius: 6px;
     padding: 5px;
-    margin-top: 20px;
-    margin-right: 10px;
-    margin-bottom: 5px;
-    margin-left: 10px;
+    margin: 20px 10px 5px 10px;
 }
 
 /* navigation bar styling */
@@ -38,10 +35,7 @@ body {
     border-radius: 6px;
     box-shadow: 5px 10px 10px 5px #000;
     padding: 5px;
-    margin-top: 20px;
-    margin-right: 10px;
-    margin-bottom: 5px;
-    margin-left: 10px;
+    margin: 20px 10px 5px 10px; 
 }
 
 /* headers styling */
@@ -150,20 +144,14 @@ ul {
 	display: block;
 	width: 300px;
 	height: 200px;
-	margin-top: 60px;
-	margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 40px;
+	margin: 60px auto auto 40px;
 }
 .next-frame {
 	border: 3px solid #5c0002;
 	display: block;
 	width: 200px;
 	height: 100px;
-	margin-top: 60px;
-	margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 40px;
+	margin: 60px auto auto 40px;
 }
 
 /* bottom of page styling */

@@ -139,18 +139,17 @@ ul {
 
 /* gallery styling */
 
-	
+#photos {
+}	
 .frame {
 	border: 3px solid #5c0002;
 	width: 300px;
 	height: 200px;
-	margin: 60px auto auto 40px;
 }
 .next-frame {
 	border: 3px solid #5c0002;
 	width: 200px;
 	height: 100px;
-	margin: 60px auto auto 40px;
 }
 
 /* bottom of page styling */

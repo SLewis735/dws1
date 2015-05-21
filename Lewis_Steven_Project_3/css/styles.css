@@ -21,7 +21,7 @@ body {
 
 /* navigation bar styling */
 
-.nav li {
+nav li {
     color:#94090d;
     font-size: 30px;
     font-family: Arial, Verdana, sans serif;

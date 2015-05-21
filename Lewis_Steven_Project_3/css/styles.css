@@ -6,15 +6,15 @@ body {
     background-repeat: no-repeat;
     background-position: right;
     background-attachment: fixed;
-    color:#450003;
+    background: linear-gradient(#450003, #6D0A08);
     text-align: center;
 }
 #middle {
     border-style: solid;
     border-width: 5px;
     border-color: #000;
-    background: linear-gradient(#bcc6cc, #777);
     border-radius: 6px;
+    color: #bcc6cc;
     padding: 5px;
     margin: 20px 10px 5px 10px;
 }

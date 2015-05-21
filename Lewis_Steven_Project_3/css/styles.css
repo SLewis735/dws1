@@ -141,8 +141,8 @@ ul {
 
 	
 .frame {
-	width: 300px;
-	height: 200px;
+	border: 3px solid #5c0002;
+	
 	margin: 60px auto auto 40px;
 }
 .next-frame {

@@ -1,15 +1,12 @@
 /* body styling */
 
 body {
-	/*background-color: rgba(255,29,35,0.4);*/
+	background-color: rgba(255,29,35,0.4);
     background-image: url("../images/chef_512x512x32.png");
     background-repeat: no-repeat;
     background-position: right;
     background-attachment: fixed;
     text-align: center;
-}
-#gradient {
-	background: linear-gradient(rgba(255,29,35,0.4),rgba(148,9,13,0.7);
 }
 #middle {
     border-style: solid;

@@ -1,11 +1,12 @@
 /* body styling */
 
 body {
+	background: linear-gradient(rgba(255,29,35,0.4),rgba(148,9,13,0.7));
     background-image: url("../images/chef_512x512x32.png");
     background-repeat: no-repeat;
     background-position: right;
     background-attachment: fixed;
-    background: linear-gradient(rgba(255,29,35,0.4),rgba(148,9,13,0.7));
+    
     text-align: center;
 }
 #middle {

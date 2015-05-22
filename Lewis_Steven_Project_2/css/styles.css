@@ -155,17 +155,8 @@ ul {
 	height: 100px;
 	margin: 60px auto 40px auto;
 }
+/* float styling */
 
-/* bottom of page styling */
-
-footer {
-	margin-top: 100px;
-	clear: left;
-}
-.top-of-page {
-	margin-top: 100px;
-	clear: left;
-}
 content {
 	float: left;
 	width: 500px;
@@ -177,3 +168,18 @@ aside {
 	margin: 20px;
 }
 
+
+/* bottom of page styling */
+
+footer {
+	margin-top: 100px;
+	clear: left;
+}
+#image-repeat {
+	background-image: url("../images/1431907239_chicken-24.png");
+	background-repeat: repeat;
+}
+#top-of-page {
+	margin-top: 100px;
+	clear: left;
+}

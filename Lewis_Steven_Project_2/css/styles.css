@@ -17,7 +17,10 @@ body {
     padding: 5px;
     margin: 20px 10px 5px 10px;
 }
-
+#repeat-image {
+	background-image: url("../images/1431907239_chicken-24.png");
+	background-repeat: repeat;
+}
 /* navigation bar styling */
 
 nav li {
@@ -174,9 +177,6 @@ aside {
 footer {
 	margin-top: 100px;
 	clear: left;
-	background-image: url("../images/1431907239_chicken-24.png");
-	background-repeat: repeat;
-	
 }
 #top-of-page {
 	margin-top: 100px;

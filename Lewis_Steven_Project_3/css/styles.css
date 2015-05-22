@@ -1,7 +1,7 @@
 /* body styling */
 
 body {
-    background-color: rgba(255,29,35,0.4);
+	background-color: rgba(255,29,35,0.4);
     background-image: url("../images/chef_512x512x32.png");
     background-repeat: no-repeat;
     background-position: right;
@@ -17,7 +17,6 @@ body {
     padding: 5px;
     margin: 20px 10px 5px 10px;
 }
-
 /* navigation bar styling */
 
 nav li {
@@ -57,41 +56,44 @@ h1 {
     margin: 30px auto;
 }
 h2 {
-	background-image: url("../images/1431907239_chicken-24.png");
-	background-repeat: no-repeat;
-	background-position: 5%;
     color:#94090d;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 36px;
     font-family: Comic Sans MS, Arial, sans serif;
     text-shadow: 2px 2px 6px #000;
-    text-indent: 30px;
+    text-align: center;
 }
 h3,h4 {
     color:#d40d12;
     font-style: italic;
-    font-size: 24px;
+    font-size: 30px;
     font-family: Arial, Verdana, sans serif;
-    text-align: left;
+    text-align: center;
 }
 h5 {
     color:#d40d12;
     font-size: 18px;
     font-family: Arial, Verdana, sans serif;
 }
-
+#icon {
+	background-image: url("../images/1431907239_chicken-24.png");
+	background-repeat: no-repeat;
+	background-position: 35%;
+}
 /* paragraph and caption styling */
 
-p { background-image: url("../images/risen.gif");
-    color: #fff;
+p {
+	background-image: url("../images/risen.gif");
+    color:#fff;
     line-height: 2;
     font-family: Helvetica, Verdana, sans serif;
     font-size: 20px;
     text-align: justify;
     text-indent: 25px;
-    padding: 20px;
     border-radius: 10px;
+    padding: 20px;
 }
+
 figcaption {
     color:#450003;
     font-family: Helvetica, Verdana, sans serif;
@@ -101,11 +103,11 @@ figcaption {
 /* pseudo class styling */
 
 a:link {
-    color: 00f;
+    color: blue;
     text-decoration: none;
 }
 a:visited {
-    color: fff;
+    color: white;
     text-decoration: underline;
 }
 a:hover {
@@ -113,20 +115,22 @@ a:hover {
     text-decoration: none;
 }
 a:active {
-    color: 000;
+    color: black;
     text-decoration: none;
 }
 
 /* list styling */
 
 ol {
-    font-size: 16px;
+    font-size: 20px;
     font-family: Helvetica, Verdana, sans serif;
+    line-height: 2;
     list-style-type: none;
 }
 ul {
-    font-size: 16px;
+    font-size: 20px;
     font-family: Helvetica, Verdana, sans serif;
+    line-height: 2;
     list-style-type: none;
 }
 .list {
@@ -137,23 +141,42 @@ ul {
 }
 
 /* gallery styling */
-	
+
 .frame {
 	border: 3px solid #5c0002;
+	display: block;
 	width: 300px;
 	height: 200px;
+	margin: 60px auto 40px auto;
 }
 .next-frame {
 	border: 3px solid #5c0002;
+	display: block;
 	width: 200px;
 	height: 100px;
+	margin: 60px auto 40px auto;
 }
+/* float styling */
+
+content {
+	float: left;
+	width: 500px;
+	margin: 10px;
+}
+aside {
+	float: left;
+	width: 500px;
+	margin: 20px;
+}
+
 
 /* bottom of page styling */
 
 footer {
 	margin-top: 100px;
+	clear: left;
 }
-.top-of-page {
+#top-of-page {
 	margin-top: 100px;
+	clear: left;
 }

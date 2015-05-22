@@ -1,11 +1,11 @@
 /* body styling */
 
 body {
-    background-color: rgba(255,29,35,0.4);
     background-image: url("../images/chef_512x512x32.png");
     background-repeat: no-repeat;
     background-position: right;
     background-attachment: fixed;
+    background: linear-gradient(rgba(255,29,35,0.4), #777);
     text-align: center;
 }
 #middle {
@@ -176,6 +176,7 @@ footer {
 	clear: left;
 	background-image: url("../images/1431907239_chicken-24.png");
 	background-repeat: repeat;
+	
 }
 #top-of-page {
 	margin-top: 100px;

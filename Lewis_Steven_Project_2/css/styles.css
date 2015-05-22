@@ -153,10 +153,7 @@ ul {
 	display: block;
 	width: 200px;
 	height: 100px;
-	margin-top: 60px;
-	margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 40px;
+	margin: 60px auto 40px auto;
 }
 
 /* bottom of page styling */
@@ -166,4 +163,14 @@ footer {
 }
 .top-of-page {
 	margin-top: 100px;
+}
+content {
+	float: left;
+	width: 400px;
+	margin: 10px;
+}
+aside {
+	float: left;
+	width: 200px;
+	margin: 10px;
 }

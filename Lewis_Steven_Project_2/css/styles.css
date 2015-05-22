@@ -174,11 +174,8 @@ aside {
 footer {
 	margin-top: 100px;
 	clear: left;
-}
-#image-repeat {
 	background-image: url("../images/1431907239_chicken-24.png");
 	background-repeat: repeat;
-	background-position: 10px;
 }
 #top-of-page {
 	margin-top: 100px;

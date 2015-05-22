@@ -164,6 +164,7 @@ footer {
 }
 .top-of-page {
 	margin-top: 100px;
+	clear: left;
 }
 content {
 	float: left;

@@ -35,7 +35,7 @@ th, td {
 th	{
 	text-align: left;
 }
-.even {
+tr.even {
 	background-color: #e8eff5;
 }
 	

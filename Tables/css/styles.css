@@ -20,6 +20,9 @@ em{
 	padding: 10px
 }
 
+table {
+	border: 0px
+}
 th, td {
 	padding: 5px 30px 5px 10px;
 	font-size: 0.9em;

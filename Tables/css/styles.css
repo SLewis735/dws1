@@ -21,8 +21,6 @@ em{
 }
 
 table {
-	th {text-align: left;
-	}
 	padding: 5px 30px 5px 10px;
 	font-size: 0.9em;
 	background-color: #e0e9f0;
@@ -30,6 +28,7 @@ table {
 	border-bottom: 1px solid #cbd2d8;
 	border-right: 1px solid cbd2d8;
 	text-shadow: 1px 1px 1px #fff;
+	text-align: left;
 }
 .even {
 	background-color: #e8eff5;

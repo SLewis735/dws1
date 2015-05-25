@@ -59,7 +59,7 @@ h1 {
     margin: 30px auto;
 }
 h2 {
-	background: linear-gradient(#bcc6cc, #777);
+	background-color: #bcc6cc;
     color:#94090d;
     font-weight: bold;
     font-size: 36px;

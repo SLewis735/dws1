@@ -1,4 +1,4 @@
-/* body styling */
+/* body and page styling */
 
 body {
 	/*background-color: rgba(255,29,35,0.4);*/
@@ -81,11 +81,7 @@ h5 {
     font-size: 18px;
     font-family: Arial, Verdana, sans serif;
 }
-#credits p {
-	color:#d40d12;
-    font-size: 2px;
-    font-family: Arial, Verdana, sans serif;
-}
+
 /* paragraph and caption styling */
 
 p {
@@ -97,6 +93,7 @@ p {
     text-align: justify;
     text-indent: 25px;
     border-radius: 10px;
+    border-width: 4px;
     padding: 20px;
 }
 
@@ -185,4 +182,9 @@ footer {
 #top-of-page {
 	margin-top: 100px;
 	clear: left;
+}
+#credits {
+	color:#d40d12;
+    font-size: 2px;
+    font-family: Arial, Verdana, sans serif;
 }

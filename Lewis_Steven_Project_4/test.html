@@ -233,6 +233,10 @@
 	   		<input type="text" name="fullname"
 	   			maxlength="40 />
 	   		action=http://example.com/join.php"
+	   		method="post">
+	   		<p>Enter your Email Address.</p>
+	   		<input type="text" name="email" />
+	   		action=http://example.com/join.php"
 	   		method="post">	
 	   		<p>Describe your catering needs.</p>
 	   		<textarea name="comments">
@@ -246,11 +250,11 @@
 	   		<input type="radio" name="engagement"
 	   			value="formal" /> Formal
 	   		<input type="radio" name="engagement"
-	   			value="small" /> Group Gathering	
+	   			value="small" /> Small	
 	   		</p>
 	   		<p>What type of entree is needed?:<br />
 	   		<input type="checkbox" name="entree"
-	   			value="chicken" /> Chicken
+	   			value="chicken" checked="checked"/> Chicken
 	   		<input type="checkbox" name="entree"
 	   			value="beef" /> Beef
 	   		<input type="checkbox" name="entree"
@@ -260,6 +264,16 @@
 	   		<input type="checkbox" name="entree"
 	   			value="other" /> Other
 	   		</p>
+	   		<select name="number-of-people">
+	   		 <option value="2 - 9">2 - 9</option>
+	   		 <option value="10 - 25">10 - 25</option>
+	   		 <option value="26 - 50">26 - 50</option>
+	   		 <option value="51 - 99">51 - 99</option>
+	   		 <option value="100 or more">100 or more</option>
+	   		</select>
+	   		<p>Submit your inquiry:</p>
+	   		<input type="submit"
+	   			value="Submit" />
 	   	</form>
     </div>
     <div><a href="#home">Top of Page</a></li>

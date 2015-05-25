@@ -9,7 +9,7 @@ body {
     text-align: center;
 }
 #page { 
-	background: linear-gradient(rgba(255,29,35,0.4), #777);
+	background: linear-gradient(rgba(255,29,35,0), #777);
 	text-align: center;
 }	
 #middle {

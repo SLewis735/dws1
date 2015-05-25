@@ -81,6 +81,11 @@ h5 {
     font-size: 18px;
     font-family: Arial, Verdana, sans serif;
 }
+#credits {
+	color:#d40d12;
+    font-size: 6px;
+    font-family: Arial, Verdana, sans serif;
+}
 /* paragraph and caption styling */
 
 p {
@@ -159,14 +164,14 @@ ul {
 }
 /* float styling */
 
-content {
+article {
 	float: left;
 	width: 34.7%;
 	margin: .694%;
 }
 aside {
 	float: left;
-	width: 34.7%;
+	width: 34.7%;s
 	margin: 1.389%;
 }
 

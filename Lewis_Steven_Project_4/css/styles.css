@@ -68,6 +68,7 @@ h2 {
     background-image: url("../images/1431907239_chicken-24.png");
 	background-repeat: no-repeat;
 	background-position: 35%;
+	border-width: 3px;
 }
 h3,h4 {
     color:#d40d12;

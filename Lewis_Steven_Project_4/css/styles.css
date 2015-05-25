@@ -16,7 +16,7 @@ body {
     border-width: 5px;
     border-color: #000;
     border-radius: 6px;
-    background: linear-gradient(#ebf3ff, #777);
+    background: linear-gradient(#bcc6cc, #777);
     padding: 5px;
     margin: 20px 10px 5px 10px;
 }
@@ -59,7 +59,7 @@ h1 {
     margin: 30px auto;
 }
 h2 {
-	background-color: #bcc6cc;
+	background-color: #ebf3ff;
     color:#94090d;
     font-weight: bold;
     font-size: 36px;

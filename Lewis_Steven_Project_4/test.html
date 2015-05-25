@@ -229,8 +229,10 @@
 	   
 	   <h3 id="catering">Reserve A Catering Engagement</h3>
 	   <form
-	   		action=http://example.com/join.php"
+	   	  action=http://example.com/join.php"
 	   		method="post">
+	   	  <fieldset>
+	   	  	<legend>Contact Information</legend>
 	   		<label for="name">Enter your full name.</label>
 	   		<input type="text" name="name"
 	   			id="name" />
@@ -242,6 +244,7 @@
 	   			Enter the description of your engagement...
 	   		 </textarea>
 	   		</p>
+	   	  </fieldset>
 	   		<p>What type of engagement is needed?<br />
 	   		<input type="radio" name="engagement"
 	   			value="group-gathering" checked="checked" /> Group Gathering

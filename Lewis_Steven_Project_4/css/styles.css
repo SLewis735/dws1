@@ -59,13 +59,13 @@ h1 {
     margin: 30px auto;
 }
 h2 {
+	background: linear-gradient(#bcc6cc, #777);
     color:#94090d;
     font-weight: bold;
     font-size: 36px;
     font-family: Comic Sans MS, Arial, sans serif;
     text-shadow: 2px 2px 6px #000;
     text-align: center;
-    background: linear-gradient(#bcc6cc, #777);
     background-image: url("../images/1431907239_chicken-24.png");
 	background-repeat: no-repeat;
 	background-position: 35%;

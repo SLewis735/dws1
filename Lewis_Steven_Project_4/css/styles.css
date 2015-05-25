@@ -21,7 +21,7 @@ body {
 
 nav li {
     color:#94090d;
-    font-size: 16px;
+    font-size: 20px;
     font-family: Arial, Verdana, sans serif;
     list-style: none;
     display: inline;
@@ -33,7 +33,7 @@ nav li {
     border-radius: 6px;
     box-shadow: 5px 5px 5px 5px #000;
     padding: 5px;
-    margin: 20px 3px 5px 3px; 
+    margin: 20px 4px 5px 4px; 
 }
 
 /* headers styling */

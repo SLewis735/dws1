@@ -232,12 +232,22 @@
 	   		<p>Enter your Full Name.</p>
 	   		<input type="text" name="fullname"
 	   			maxlength="40 />
+	   		action=http://example.com/join.php"
 	   		method="post">	
 	   		<p>Describe your catering needs.</p>
 	   		<textarea name="comments">
 	   			Enter the description of your engagement...
 	   		</textarea>
-	   		
+	   		<p>What type of engagement is needed?:<br />
+	   		<input type="radio" name="engagement"
+	   			value="group-gathering" checked="checked" /> Group Gathering
+	   		<input type="radio" name="engagement"
+	   			value="party" /> Party
+	   		<input type="radio" name="engagement"
+	   			value="formal" /> Formal
+	   		<input type="radio" name="engagement"
+	   			value="small" /> Group Gathering	
+	   		</p>
 	   	</form>
     </div>
     <div><a href="#home">Top of Page</a></li>

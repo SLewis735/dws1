@@ -184,7 +184,7 @@ ul {
 	margin: 1.389%;
 }
 .gallery {
-	float: right;
+	clear: right;
 	width: 34.7%;
 	margin: 1.389%;
 }

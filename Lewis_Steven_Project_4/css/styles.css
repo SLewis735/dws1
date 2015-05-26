@@ -168,7 +168,22 @@ ul {
 
 /* float styling */
 
-aside {
+.menu {
+	float: left;
+	width: 34.7%;
+	margin: 1.389%;
+}
+.recipes {
+	float: left;
+	width: 34.7%;
+	margin: 1.389%;
+}
+.list {
+	float: left;
+	width: 34.7%;
+	margin: 1.389%;
+}
+.gallery {
 	float: right;
 	width: 34.7%;
 	margin: 1.389%;
@@ -204,6 +219,12 @@ form {
 	float: left;
 	width: 34.7%;
 	margin: .694%;
+}
+#catering {
+	width: 34.7%;
+    height: 100px;
+	margin: .694%;
+	float: left;
 }
 
 /* bottom of page styling */

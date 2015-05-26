@@ -169,17 +169,17 @@ ul {
 /* float styling */
 
 .menu {
-	float: left;
+	float: right;
 	width: 34.7%;
 	margin: 1.389%;
 }
 .recipes {
-	clear: left;
+	clear: right;
 	width: 34.7%;
 	margin: 1.389%;
 }
 #little-search {
-	float: left;
+	float: right;
 	width: 34.7%;
 	margin: 1.389%;
 	color:#fff;
@@ -187,12 +187,12 @@ ul {
     font-size: 20px;
 }
 #list {
-	clear: left;
+	clear: right;
 	width: 34.7%;
 	margin: 1.389%;
 }
 .journey {
-	float: left;
+	float: right;
 	width: 34.7%;
 	margin: 1.389%;
 }
@@ -215,7 +215,7 @@ table {
     border-style: solid;
     border-color: #450003;
     padding: 20px;
-	float: left;
+	float: right;
 	width: 34.7%;
 	margin: .694%;
 }
@@ -223,13 +223,13 @@ table {
 	width: 34.7%;
     height: 100px;
 	margin: .694%;
-	float: left;
+	float: right;
 }
 
 /* form styling */
 
 form {
-	float: left;
+	float: right;
 	width: 34.7%;
 	margin: .694%;
 }
@@ -237,7 +237,7 @@ form {
 	width: 34.7%;
     height: 100px;
 	margin: .694%;
-	float: left;
+	float: right;
 }
 
 /* bottom of page styling */

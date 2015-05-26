@@ -173,6 +173,9 @@ aside {
 	width: 34.7%;
 	margin: 1.389%;
 }
+
+/* table styling */
+
 table {
 	background-image: url("../images/risen.gif");
     color:#fff;
@@ -188,16 +191,19 @@ table {
 	width: 34.7%;
 	margin: .694%;
 }
+#hours {
+	width: 34.7%;
+    height: 100px;
+	margin: .694%;
+}
+
+/* form styling */
+
 form {
 	float: left;
 	width: 34.7%;
 	margin: .694%;
 }
-
-/* table styling */
-
-
-
 
 /* bottom of page styling */
 

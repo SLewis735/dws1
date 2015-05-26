@@ -190,6 +190,7 @@ ul {
 	clear: left;
 	width: 25%;
 	margin: 1.389%;
+	border-style: solid;
 }
 .journey {
 	float: left;

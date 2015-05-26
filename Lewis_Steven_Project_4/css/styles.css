@@ -195,6 +195,20 @@ table {
 	width: 34.7%;
     height: 100px;
 	margin: .694%;
+	background-color: #ebf3ff;
+    color:#94090d;
+    font-weight: bold;
+    font-size: 36px;
+    font-family: Comic Sans MS, Arial, sans serif;
+    text-shadow: 2px 2px 6px #000;
+    text-align: center;
+    background-image: url("../images/1431907239_chicken-24.png");
+	background-repeat: no-repeat;
+	background-position: 35%;
+	border-width: 5px 5px 5px 5px;
+	border-style: solid;
+    border-color: #450003 #000000;
+    border-radius: 6px;
 }
 
 /* form styling */

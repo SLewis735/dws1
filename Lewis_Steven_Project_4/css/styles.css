@@ -174,7 +174,7 @@ ul {
 	margin: 1.389%;
 }
 .recipes {
-	float: left;
+	clear: left;
 	width: 25%;
 	margin: 1.389%;
 }
@@ -215,7 +215,7 @@ table {
     border-style: solid;
     border-color: #450003;
     padding: 20px;
-	float: left;
+	clear: left;
 	width: 25%;
 	margin: .694%;
 }
@@ -237,7 +237,7 @@ form {
 	width: 25%;
     height: 100px;
 	margin: .694%;
-	float: left;
+	clear: left;
 }
 
 /* bottom of page styling */

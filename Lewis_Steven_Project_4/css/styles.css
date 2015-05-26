@@ -193,7 +193,11 @@ ul {
 	width: 34.7%;
 	margin: 1.389%;
 }
-
+#search {
+	float: left;
+	width: 34.7%;
+	margin: 1.389%;
+}
 
 /* table styling */
 

@@ -170,7 +170,7 @@ ul {
 
 .menu {
 	float: left;
-	width: 30%;
+	width: 25%;
 	margin: 1.389%;
 }
 .recipes {
@@ -180,7 +180,7 @@ ul {
 }
 #little-search {
 	float: left;
-	width: 30%;
+	width: 25%;
 	margin: 1.389%;
 	color:#fff;
 	font-family: Helvetica, Verdana, sans serif;
@@ -188,17 +188,17 @@ ul {
 }
 #list {
 	float: left;
-	width: 30%;
+	width: 25%;
 	margin: 1.389%;
 }
 .journey {
 	float: left;
-	width: 30%;
+	width: 25%;
 	margin: 1.389%;
 }
 .gallery {
 	float: right;
-	width: 30%;
+	width: 25%;
 	margin: 1.389%;
 }
 
@@ -216,11 +216,11 @@ table {
     border-color: #450003;
     padding: 20px;
 	float: left;
-	width: 30%;
+	width: 25%;
 	margin: .694%;
 }
 #hours {
-	width: 30%;
+	width: 25%;
     height: 100px;
 	margin: .694%;
 	float: left;
@@ -230,11 +230,11 @@ table {
 
 form {
 	float: left;
-	width: 30%;
+	width: 25%;
 	margin: .694%;
 }
 #catering {
-	width: 30%;
+	width: 25%;
     height: 100px;
 	margin: .694%;
 	float: left;

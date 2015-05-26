@@ -174,7 +174,7 @@ ul {
 	margin: 1.389%;
 }
 .recipes {
-	float: left;
+	clear: left;
 	width: 34.7%;
 	margin: 1.389%;
 }
@@ -241,11 +241,11 @@ form {
 
 footer {
 	margin-top: 100px;
-	clear: left;
+	clear: center;
 }
 #top-of-page {
 	margin-top: 100px;
-	clear: left;
+	clear: center;
 }
 #credits {
 	color:#d40d12;

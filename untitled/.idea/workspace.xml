@@ -27,8 +27,8 @@
       <file leaf-file-name="sss.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sss.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="12.564935" vertical-offset="0" max-vertical-offset="5895">
-              <caret line="387" column="7" selection-start-line="387" selection-start-column="7" selection-end-line="387" selection-end-column="7" />
+            <state vertical-scroll-proportion="12.24026" vertical-offset="0" max-vertical-offset="5745">
+              <caret line="377" column="7" selection-start-line="377" selection-start-column="7" selection-end-line="377" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -157,6 +157,9 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="50ba52f8-d579-4492-ade2-8e2c760643c0" name="Default" comment="" />
@@ -253,8 +256,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sss.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="12.564935" vertical-offset="0" max-vertical-offset="5895">
-          <caret line="387" column="7" selection-start-line="387" selection-start-column="7" selection-end-line="387" selection-end-column="7" />
+        <state vertical-scroll-proportion="12.24026" vertical-offset="0" max-vertical-offset="5745">
+          <caret line="377" column="7" selection-start-line="377" selection-start-column="7" selection-end-line="377" selection-end-column="7" />
           <folding />
         </state>
       </provider>

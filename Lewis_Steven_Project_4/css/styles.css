@@ -196,10 +196,10 @@ ul {
 	width: 25%;
 	margin: 1.389%;
 }
-column-left {
+column1of2 {
 	float: left;
 }
-column-right {
+column2of2 {
 	float: right;
 }
 

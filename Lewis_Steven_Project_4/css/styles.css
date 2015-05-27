@@ -216,7 +216,6 @@ table {
     border-style: solid;
     border-color: #450003;
     padding: 20px;
-	clear: left;
 	width: 25%;
 	margin: .694%;
 }
@@ -224,13 +223,11 @@ table {
 	width: 25%;
     height: 100px;
 	margin: .694%;
-	clear: left;
 }
 
 /* form styling */
 
 form {
-	float: left;
 	width: 25%;
 	margin: .694%;
 }
@@ -238,7 +235,6 @@ form {
 	width: 25%;
     height: 100px;
 	margin: .694%;
-	clear: left;
 }
 
 /* bottom of page styling */

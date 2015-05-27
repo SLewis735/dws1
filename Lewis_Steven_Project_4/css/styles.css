@@ -240,11 +240,11 @@ form {
 
 footer {
 	margin-top: 100px;
-	clear: left;
+	clear: right;
 }
 #top-of-page {
 	margin-top: 100px;
-	clear: left;
+	clear: right;
 }
 #credits {
 	color:#d40d12;

@@ -213,11 +213,12 @@ table {
     border-style: solid;
     border-color: #450003;
     padding: 20px;
-    width: 50%;
+    width: 100%;
 	margin: .694%;
 }
 #hours {
     height: 100px;
+    font-size: 24px;
 }
 
 /* form styling */
@@ -227,6 +228,7 @@ form {
 }
 #catering {
     height: 100px;
+    font-size: 24px;
 }
 
 /* bottom of page styling */

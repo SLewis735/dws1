@@ -263,11 +263,11 @@ input:focus {
 input:hover {
 	background-color: #bcc6cc;
 }
-textarea {
+/*textarea {
 	width: 400px;
 	height: 100px;
-	text-align: justify;
-	font-size: 15px;
+	text-align: left;
+	font-size: 15px;*/
 }	
 textarea:focus {
 	background-color: #777;

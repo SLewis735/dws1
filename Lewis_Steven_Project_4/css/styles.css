@@ -263,7 +263,10 @@ input {
 	font-size: 16px;
 	text-shadow: 0px 1px 1px #000;
 	border-radius: 4px;
-	text-indent: 0px;
+	p { 
+		text-indent: none;
+	}
+	
 }
 	
 /* bottom of page styling */

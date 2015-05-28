@@ -216,17 +216,18 @@ table {
     padding: 20px;
     width: 100%;
 	margin: .694%;
-	tr:hover {
-		color: #777;
-	}
-	th { 
-		letter-spacing: 150%;
-		border: 2px solid #fff;
-		text-transform: uppercase;
-	}
-	th, td { 
-		padding: 2px;
-	}		
+}
+tr:hover {
+	color: #777;
+}
+th { 
+	letter-spacing: 150%;
+	border: 2px solid #fff;
+	text-transform: uppercase;
+}
+th, td { 
+	padding: 2px;
+}		
 }
 #hours {
     height: 40px;

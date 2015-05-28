@@ -214,9 +214,6 @@ table {
     padding: 20px;
     width: 100%;
 	margin: .694%;
-	p {
-	text-align: center;
-	}
 }
 #hours {
     height: 40px;
@@ -242,11 +239,11 @@ form {
 
 footer {
 	margin-top: 100px;
-	clear: left;
+	clear: right;
 }
 #top-of-page {
 	margin-top: 100px;
-	clear: left;
+	clear: right;
 }
 #credits {
 	color:#d40d12;

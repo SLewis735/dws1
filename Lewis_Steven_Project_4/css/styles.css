@@ -112,7 +112,7 @@ figcaption {
 /* pseudo class styling */
 
 a:link {
-    color: 000;
+    color: 777;
     text-decoration: none;
 }
 a:visited {
@@ -213,7 +213,6 @@ tr:hover {
 	color: #777;
 }
 th { 
-	letter-spacing: 2;
 	border: 2px solid #fff;
 	text-transform: uppercase;
 	background-color: #bcc6cc;

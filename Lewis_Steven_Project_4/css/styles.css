@@ -262,7 +262,11 @@ input:focus {
 }
 input:hover {
 	background-color: #bcc6cc;
-	}
+}
+textarea {
+	width: 400px;
+	height: 100px;
+}	
 /* bottom of page styling */
 
 footer {

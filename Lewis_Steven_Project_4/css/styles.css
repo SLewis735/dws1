@@ -213,6 +213,8 @@ table {
     border-style: solid;
     border-color: #450003;
     padding: 20px;
+    width: 40%;
+	margin: .694%;
 }
 #hours {
     height: 100px;

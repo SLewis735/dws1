@@ -263,12 +263,11 @@ input {
 	font-size: 16px;
 	text-shadow: 0px 1px 1px #000;
 	border-radius: 4px;
-	p { 
-		text-indent: none;
-	}
-	
 }
-	
+input:focus {
+	background-color: #777;
+	color: rgba(255,29,35,0.4);
+}
 /* bottom of page styling */
 
 footer {

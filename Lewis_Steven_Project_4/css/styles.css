@@ -266,7 +266,16 @@ input:hover {
 textarea {
 	width: 400px;
 	height: 100px;
+	text-align: left;
+	font-size: 10px;
 }	
+textarea:focus {
+	background-color: #777;
+	color: rgba(255,29,35,0.4);
+}
+textarea:hover {
+	background-color: #bcc6cc;
+}
 /* bottom of page styling */
 
 footer {

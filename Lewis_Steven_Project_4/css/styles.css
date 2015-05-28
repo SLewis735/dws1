@@ -112,7 +112,7 @@ figcaption {
 /* pseudo class styling */
 
 a:link {
-    color: 777;
+    color: #777;
     text-decoration: none;
 }
 a:visited {

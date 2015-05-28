@@ -260,13 +260,6 @@ input:focus {
 	background-color: #777;
 	color: rgba(255,29,35,0.4);
 }
-#submit {
-	text-align: center;
-}
-input#comments {
-	height: 100px;
-	width: 250px;
-}
 /* bottom of page styling */
 
 footer {

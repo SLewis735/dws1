@@ -213,9 +213,6 @@ table {
     padding: 20px;
     width: 100%;
 	margin: .694%;
-	a:hover {
-		color: #777;
-		}
 }
 #hours {
     height: 40px;
@@ -225,7 +222,6 @@ table {
 /* form styling */
 
 form {
-	text-align: left;
 }
 #catering {
     height: 40px;

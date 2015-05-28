@@ -87,7 +87,7 @@ h5 {
     font-family: Arial, Verdana, sans serif;
 }
 
-/* paragraph and caption styling */
+/* paragraph and  figure caption styling */
 
 p {
 	background-image: url("../images/risen.gif");
@@ -112,7 +112,7 @@ figcaption {
 /* pseudo class styling */
 
 a:link {
-    color: 00f;
+    color: fff;
     text-decoration: none;
 }
 a:visited {
@@ -213,7 +213,7 @@ tr:hover {
 	color: #777;
 }
 th { 
-	letter-spacing: 150%;
+	letter-spacing: 2;
 	border: 2px solid #fff;
 	text-transform: uppercase;
 	background-color: #bcc6cc;

@@ -168,12 +168,6 @@ ul {
 
 /* float styling */
 
-.menu {
-	
-}
-.recipes {
-	
-}
 #fieldset-style {
 	color:#94090d;
 	font-family: Helvetica, Verdana, sans serif;
@@ -265,6 +259,9 @@ input {
 input:focus {
 	background-color: #777;
 	color: rgba(255,29,35,0.4);
+}
+#submit {
+	text-align: center;
 }
 input#comments {
 	height: 100px;

@@ -180,15 +180,7 @@ ul {
     font-size: 20px;
     border: 3px solid #5c0002;
     border-radius: 10px;
-    margin: 20px 0px 20px 0px;
-}
-#list {
-}
-.journey {
-	
-}
-.gallery {
-	
+    margin: 20px 0px 20px 0px;	
 }
 #column1of2 {
 	float: left;
@@ -200,6 +192,10 @@ ul {
 	float: right;
 	width: 40%;
 	margin: .694%;
+	border: 3px solid #5c0002;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #450003;
 }
 
 /* table styling */

@@ -224,6 +224,7 @@ th {
 	letter-spacing: 150%;
 	border: 2px solid #fff;
 	text-transform: uppercase;
+	background-color: #bcc6cc;
 }
 th, td { 
 	padding: 2px;

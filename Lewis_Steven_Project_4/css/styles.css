@@ -252,13 +252,25 @@ input#submit {
 	width: 100px;
 	height: 30px;
 	font-size: 16px;
-	text-shadow: 0px 1px 1px #fff;
+	text-shadow: 0px 1px 1px #000;
 	border-radius: 4px;
-	position: 50%;
+	display: block;
+	
 }
 input#submit:hover {
-	color: #bcc6cc;
+	color: #fff;
 }
+input {
+	color: rgba(255,29,35,0.4);
+	border: 3px solid #000;
+	width: 100px;
+	height: 30px;
+	font-size: 16px;
+	text-shadow: 0px 1px 1px #000;
+	border-radius: 4px;
+	display: block;
+}
+	
 /* bottom of page styling */
 
 footer {

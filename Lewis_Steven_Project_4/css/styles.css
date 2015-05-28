@@ -197,9 +197,14 @@ ul {
 }
 #column1of2 {
 	float: left;
+	width: 34.7%;
+	margin: .694%;
+	
 }
 #column2of2 {
 	float: right;
+	width: 34.7%;
+	margin: .694%;
 }
 
 /* table styling */
@@ -215,25 +220,18 @@ table {
     border-style: solid;
     border-color: #450003;
     padding: 20px;
-	width: 34.7%;
-	margin: .694%;
 }
 #hours {
-	width: 34.7%;
     height: 100px;
-	margin: .694%;
 }
 
 /* form styling */
 
 form {
-	width: 34.7%;
-	margin: .694%;
+	
 }
 #catering {
-	width: 34.7%;
     height: 100px;
-	margin: .694%;
 }
 
 /* bottom of page styling */

@@ -68,7 +68,7 @@ h2 {
     text-align: center;
     background-image: url("../images/1431907239_chicken-24.png");
 	background-repeat: no-repeat;
-	background-position: 35%;
+	background-position: 10%;
 	border-width: 5px 5px 5px 5px;
 	border-style: solid;
     border-color: #450003 #000000;
@@ -196,7 +196,7 @@ ul {
 }
 #column2of2 {
 	float: right;
-	width: 34.7%;
+	width: 40%;
 	margin: .694%;
 }
 
@@ -213,6 +213,8 @@ table {
     border-style: solid;
     border-color: #450003;
     padding: 20px;
+    width: 34.7%;
+	margin: .694%;
 }
 #hours {
     height: 100px;

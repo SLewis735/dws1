@@ -27,8 +27,8 @@
       <file leaf-file-name="sss.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sss.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="11.905263" vertical-offset="0" max-vertical-offset="5745">
-              <caret line="377" column="7" selection-start-line="377" selection-start-column="7" selection-end-line="377" selection-end-column="7" />
+            <state vertical-scroll-proportion="7.0064936" vertical-offset="2778" max-vertical-offset="6105">
+              <caret line="401" column="22" selection-start-line="401" selection-start-column="22" selection-end-line="401" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -170,7 +170,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="505" y="90" width="935" height="619" extended-state="1" />
+    <frame x="505" y="90" width="935" height="619" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -256,8 +256,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sss.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="11.905263" vertical-offset="0" max-vertical-offset="5745">
-          <caret line="377" column="7" selection-start-line="377" selection-start-column="7" selection-end-line="377" selection-end-column="7" />
+        <state vertical-scroll-proportion="7.0064936" vertical-offset="2778" max-vertical-offset="6105">
+          <caret line="401" column="22" selection-start-line="401" selection-start-column="22" selection-end-line="401" selection-end-column="22" />
           <folding />
         </state>
       </provider>

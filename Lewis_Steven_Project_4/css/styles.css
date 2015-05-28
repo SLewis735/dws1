@@ -266,8 +266,8 @@ input:hover {
 textarea {
 	width: 400px;
 	height: 100px;
-	text-align: left;
-	font-size: 10px;
+	text-align: justify;
+	font-size: 15px;
 }	
 textarea:focus {
 	background-color: #777;

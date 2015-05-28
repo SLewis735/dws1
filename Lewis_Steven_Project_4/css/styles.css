@@ -214,7 +214,7 @@ table {
     padding: 20px;
     width: 100%;
 	margin: .694%;
-	:hover {
+	a:hover {
 		color: #777;
 }
 #hours {

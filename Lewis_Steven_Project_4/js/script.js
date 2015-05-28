@@ -1,11 +1,12 @@
-alert("Welcome to Slab's Rib Shack")
-// var goodFood = prompt("Do you love Down Home Southern Cooking");
-var goodFood = prompt("How often do you get good cooking a week");
-var tryStabs = 
+alert("Welcome to Slab's Rib Shack");
+
+var goodFood = prompt("How often do you get good home cooking during the week");
 
 
 if(goodFood < 10){
-	prompt("Sorry that you are not eating well, Come down to Stabs for some good cooking");
+	alert("Sorry that you are not eating well, Come down to Stabs for some good cooking!!!");
 }else{
-	prompt("Kiss your momma or your cook for the good cooking");
+    alert("Congrats");
+	alert("Kiss your momma or your cook that loves you for the good cooking");
 }
+alert("Enjoy the Website and have a happy finger licking day");

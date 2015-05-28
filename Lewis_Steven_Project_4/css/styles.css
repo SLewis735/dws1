@@ -112,11 +112,11 @@ figcaption {
 /* pseudo class styling */
 
 a:link {
-    color: blue;
+    color: 00f;
     text-decoration: none;
 }
 a:visited {
-    color: white;
+    color: #fff;
     text-decoration: underline;
 }
 a:hover {
@@ -124,7 +124,7 @@ a:hover {
     text-decoration: none;
 }
 a:active {
-    color: black;
+    color: #000;
     text-decoration: none;
 }
 
@@ -214,6 +214,8 @@ table {
     padding: 20px;
     width: 100%;
 	margin: .694%;
+	:hover {
+		color: #777;
 }
 #hours {
     height: 50px;
@@ -223,7 +225,7 @@ table {
 /* form styling */
 
 form {
-	text-align: justify;
+	text-align: left;
 }
 #catering {
     height: 40px;

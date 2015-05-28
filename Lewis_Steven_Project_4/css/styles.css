@@ -246,8 +246,16 @@ form {
 #number-of-people {
 	text-align: center;
 }
-#submit {
+input#submit {
 	text-align: center;
+	color: #777;
+	border: 3px solid #5c0002;
+	width: 100px;
+	height: 30px;
+	font-size: 16px;
+	text-shadow: 0px 1px 1px #fff;
+input#submit: hover {
+	color: #777;
 }
 /* bottom of page styling */
 

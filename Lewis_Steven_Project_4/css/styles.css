@@ -254,8 +254,6 @@ input#submit {
 	font-size: 16px;
 	text-shadow: 0px 1px 1px #000;
 	border-radius: 4px;
-	display: inline;
-	
 }
 input#submit:hover {
 	color: #fff;
@@ -263,9 +261,10 @@ input#submit:hover {
 input {
 	border: 3px solid #000;
 	width: 200px;
-	font-size: 16px;
+	font-size: 12px;
 	text-shadow: 0px 1px 1px #000;
 	border-radius: 4px;
+	text-indent: none;
 }
 	
 /* bottom of page styling */

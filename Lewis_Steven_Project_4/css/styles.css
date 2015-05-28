@@ -112,11 +112,11 @@ figcaption {
 /* pseudo class styling */
 
 a:link {
-    color: fff;
+    color: (rgba(255,29,35,0.4);
     text-decoration: none;
 }
 a:visited {
-    color: #fff;
+    color: #777;
     text-decoration: underline;
 }
 a:hover {

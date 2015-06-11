@@ -1,7 +1,7 @@
 /* body styling */
 
 body {
-	width: 1400px;
+	width: 1440px;
 	margin: 10px auto;
 	text-align: center;
 	background-color: #91AA9D;
@@ -20,7 +20,7 @@ h1 {
     border-color: #000000;
     border-radius: 8px;
     box-shadow: 5px 5px 5px 5px #000;
-    width: 1400px;
+    width: 1440px;
     height: 70%;
     padding: 25px 70px;
     margin: 30px auto;

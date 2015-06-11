@@ -11,11 +11,11 @@ body {
 h1 {
     color: #193441;
     background-color: rgba(255,255,245,0.4);
-    font-size: 84px;
+    font-size: 96px;
     font-family: 'Pacifico', cursive;
     text-shadow: 5px 5px 10px #000;
-    border-width: 20px 16px 20px 16px;
-    border-style: ridge;
+    border-width: 16px 12px; 
+    border-style: solid;
     border-color: #000000;
     border-radius: 8px;
     box-shadow: 5px 5px 5px 5px #000;
@@ -42,7 +42,7 @@ nav li {
     background-color: #3E606F;
     border-radius: 4px;
     box-shadow: 4px 4px 4px 4px #000;
-    padding: 5px;
+    padding: 10px;
     margin: 20px 4px 5px 4px; 
 }
 /* pseudo class styling for the navigation bar */
@@ -67,7 +67,7 @@ a:active {
 /* paragraph styling */
 
 p {
-	width: 1200px;
+	width: 1400px;
 }
 
 p {

@@ -16,3 +16,21 @@ nav li {
     padding: 5px;
     margin: 20px 4px 5px 4px; 
 }
+/* pseudo class styling */
+
+a:link {
+    color: #777;
+    text-decoration: none;
+}
+a:visited {
+    color: rgba(255,255,245,0.4);
+    text-decoration: underline;
+}
+a:hover {
+    color: #ffd700;
+    text-decoration: none;
+}
+a:active {
+    color: #000;
+    text-decoration: none;
+}

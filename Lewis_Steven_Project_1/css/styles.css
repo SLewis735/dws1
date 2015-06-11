@@ -37,12 +37,6 @@ h3 {
 	font-size: 20px;
 	font-family: Comic Sans MS, Arial, sans serif;
 	font-weight: bold;
-	border-radius: 10px;
-    border-style: solid;
-    border-color: #000000;
-    padding: 20px;
-    background-color: #3E606F;
-    margin: 10px, auto;
 }
 
 /* navigation bar styling */
@@ -85,7 +79,7 @@ a:active {
 /* paragraph styling */
 
 p {
-	width: 1350px; 
+	width: 1300px; 
 }
 
 p {

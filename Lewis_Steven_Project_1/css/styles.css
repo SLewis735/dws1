@@ -20,13 +20,14 @@ h1 {
     border-color: #000000;
     border-radius: 8px;
     box-shadow: 5px 5px 5px 5px #000;
-    width: 1400px;
+    width: 1300px;
     height: 70%;
     padding: 25px 70px;
     margin: 30px auto;
 }
 
 h2 {
+	width: 1440px;
 	color: #193441;
 	font-size: 60px;
 	font-family: 'Pacifico', cursive;

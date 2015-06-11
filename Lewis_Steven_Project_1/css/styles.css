@@ -106,7 +106,7 @@ p {
 
 /* list styling */
 
-#list {
+.list {
 	list-style-type: none;
 	color:#FCFFF5;
     line-height: 2;

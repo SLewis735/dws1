@@ -1,10 +1,28 @@
+
 body {
 	width: 1400px;
 	margin: 10px, auto;
 	text-align: center;
+	background-color: #91AA9D;
 }
 
+/* headers styling */
 
+h1 {
+    color: #193441;
+    background-color: rgba(255,255,245,0.4);
+    font-size: 84px;
+    font-family: 'Pacifico', cursive;
+    text-shadow: 5px 5px 10px #000;
+    border-width: 20px 16px 20px 16px;
+    border-style: ridge;
+    border-color: #000000;
+    border-radius: 8px;
+    box-shadow: 5px 5px 5px 5px #000;
+    width: 80%;
+    height: 70%;
+    padding: 25px 80px;
+    margin: 30px auto;
 
 
 

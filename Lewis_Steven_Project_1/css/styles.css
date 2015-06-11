@@ -106,13 +106,13 @@ p {
 
 /* list styling */
 
-ul {
+#list {
 	color:#FCFFF5;
     line-height: 2;
     font-family: Helvetica, Verdana, sans serif;
     font-style: italic;
     font-size: 20px;
-    text-align: justify;
+    text-align: center;
     text-indent: 25px;
     border-radius: 10px;
     border-style: solid;

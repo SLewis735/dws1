@@ -2,7 +2,7 @@
 
 body {
 	width: 1400px;
-	margin: 10px, auto;
+	margin: 10px auto;
 	text-align: center;
 	background-color: #91AA9D;
 }
@@ -37,7 +37,7 @@ h2 {
     border-width: 6px;
     padding: 20px 40px;
     background-color: rgba(255,255,245,0.6);
-    margin: 10px, auto;
+    margin: 10px auto;
 }
 	
 h3 {
@@ -99,7 +99,7 @@ p {
     border-color: #000000;
     padding: 20px;
     background-color: #3E606F;
-    margin: 10px, auto;
+    margin: 10px auto;
 }
 
 /* list styling */
@@ -118,7 +118,7 @@ p {
     border-color: #000000;
     padding: 20px;
     background-color: #3E606F;
-    margin: 10px, auto;
+    margin: 10px auto;
 }
 
 .frame {

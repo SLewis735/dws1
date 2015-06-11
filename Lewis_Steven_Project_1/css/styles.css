@@ -31,6 +31,12 @@ h2 {
 	font-size: 40px;
 	font-family: 'Pacifico', cursive;
 	text-shadow: 3px 3px 6px #000;
+	border-radius: 10px;
+    border-style: solid;
+    border-color: #000000;
+    padding: 20px;
+    background-color: rgba(255,255,245,0.6);
+    margin: 10px, auto;
 }
 	
 h3 {

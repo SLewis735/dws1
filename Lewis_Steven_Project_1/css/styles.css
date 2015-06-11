@@ -80,10 +80,6 @@ a:active {
 /* paragraph styling */
 
 p {
-	width: 1300px; 
-}
-
-p {
     color:#FCFFF5;
     line-height: 2;
     font-family: Helvetica, Verdana, sans serif;

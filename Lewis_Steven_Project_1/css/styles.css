@@ -1,3 +1,4 @@
+/* body styling */
 
 body {
 	width: 1400px;
@@ -10,7 +11,7 @@ body {
 
 h1 {
     color: #193441;
-    background-color: rgba(255,255,245,0.4);
+    background-color: rgba(255,255,245,0.6);
     font-size: 96px;
     font-family: 'Pacifico', cursive;
     text-shadow: 5px 5px 10px #000;
@@ -36,6 +37,12 @@ h3 {
 	font-size: 20px;
 	font-family: Comic Sans MS, Arial, sans serif;
 	font-weight: bold;
+	border-radius: 10px;
+    border-style: solid;
+    border-color: #000000;
+    padding: 20px;
+    background-color: #3E606F;
+    margin: 10px, auto;
 }
 
 /* navigation bar styling */
@@ -85,6 +92,7 @@ p {
     color:#FCFFF5;
     line-height: 2;
     font-family: Helvetica, Verdana, sans serif;
+    font-style: italic;
     font-size: 20px;
     text-align: justify;
     text-indent: 25px;
@@ -95,3 +103,22 @@ p {
     background-color: #3E606F;
     margin: 10px, auto;
 }
+
+/* list styling */
+
+ul {
+	color:#FCFFF5;
+    line-height: 2;
+    font-family: Helvetica, Verdana, sans serif;
+    font-style: italic;
+    font-size: 20px;
+    text-align: justify;
+    text-indent: 25px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #000000;
+    padding: 20px;
+    background-color: #3E606F;
+    margin: 10px, auto;
+}
+

@@ -15,12 +15,12 @@ h1 {
     font-size: 96px;
     font-family: 'Pacifico', cursive;
     text-shadow: 5px 5px 10px #000;
-    border-width: 16px 12px; 
+    border-width: 12px; 
     border-style: solid;
     border-color: #000000;
     border-radius: 8px;
     box-shadow: 5px 5px 5px 5px #000;
-    width: 80%;
+    width: 1400px;
     height: 70%;
     padding: 25px 70px;
     margin: 30px auto;
@@ -34,6 +34,7 @@ h2 {
 	border-radius: 10px;
     border-style: solid;
     border-color: #000000;
+    border-width: 6px;
     padding: 20px;
     background-color: rgba(255,255,245,0.6);
     margin: 10px, auto;

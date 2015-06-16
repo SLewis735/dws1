@@ -41,7 +41,7 @@ h1 {
 }
 h2 {
 	float: left;
-	width: 700px;
+	width: 600px;
 	color: #193441;
 	font-size: 72px;
 	font-family: 'Pacifico', cursive;
@@ -57,7 +57,7 @@ h2 {
 	
 h3 {
 	float: left;
-	width: 700px;
+	width: 600px;
 	font-size: 30px;
 	font-family: Comic Sans MS, Arial, sans serif;
 	font-weight: bold;
@@ -159,6 +159,7 @@ p {
 }
 
 .frame {
+	float: right;
 	border: 3px solid #000;
 	width: 300px;
 	height: 200px;

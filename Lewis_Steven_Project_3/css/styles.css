@@ -27,7 +27,6 @@ h1 {
 }
 
 h2 {
-	float: left;
 	width: 1400px;
 	color: #193441;
 	font-size: 72px;
@@ -43,7 +42,6 @@ h2 {
 }
 	
 h3 {
-	float: left;
 	font-size: 30px;
 	font-family: Comic Sans MS, Arial, sans serif;
 	font-weight: bold;

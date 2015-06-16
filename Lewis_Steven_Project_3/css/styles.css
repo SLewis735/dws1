@@ -140,6 +140,8 @@ p {
 /* list styling */
 
 .list {
+	float: left;
+	width: 800px;
 	list-style-type: none;
 	color:#FCFFF5;
     line-height: 2;
@@ -169,9 +171,14 @@ p {
 
 
 aside {
-	float: left;
+	float: right;
 	width:  400px;
 } 
+
+#gallery {
+	float: right;
+	width: 400px;
+}
 footer {
 	float: left;
 }  

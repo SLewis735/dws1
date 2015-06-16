@@ -1,0 +1,138 @@
+/* body styling */
+
+body {
+	width: 1440px;
+	margin: 10px auto;
+	text-align: center;
+	background-color: #91AA9D;
+}
+
+/* header stylings */
+
+h1 {
+    color: #193441;
+    background-color: rgba(255,255,245,0.6);
+    font-size: 108px;
+    font-family: 'Pacifico', cursive;
+    text-shadow: 5px 5px 10px #000;
+    border-width: 12px; 
+    border-style: solid;
+    border-color: #000000;
+    border-radius: 8px;
+    box-shadow: 5px 5px 5px 5px #000;
+    width: 1300px;
+    height: 70%;
+    padding: 25px 70px;
+    margin: 30px auto;
+}
+
+h2 {
+	width: 1400px;
+	color: #193441;
+	font-size: 72px;
+	font-family: 'Pacifico', cursive;
+	text-shadow: 3px 3px 6px #000;
+	border-radius: 10px;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 6px;
+    padding: 20px 40px;
+    background-color: rgba(255,255,245,0.6);
+    margin: 10px auto;
+}
+	
+h3 {
+	font-size: 30px;
+	font-family: Comic Sans MS, Arial, sans serif;
+	font-weight: bold;
+	
+}
+
+/* navigation bar styling */
+
+nav li {
+    color:#FCFFF5;
+    font-size: 18px;
+    font-family: Arial, Verdana, sans serif;
+    list-style: none;
+    display: inline;
+    text-shadow: 2px 2px 4px #000;
+    border-style: solid;
+    border-width: 4px;
+    border-color: #000;
+    background-color: #3E606F;
+    border-radius: 4px;
+    box-shadow: 4px 4px 4px 4px #000;
+    padding: 10px 20px;
+    margin: 20px 12px 8px 12px; 
+}
+/* pseudo class styling for the navigation bar */
+
+a:link {
+    color: #777;
+    text-decoration: none;
+}
+a:visited {
+    color: rgba(255,255,245,0.4);
+    text-decoration: underline;
+}
+a:hover {
+    color: #ffd700;
+    text-decoration: none;
+}
+a:active {
+    color: #000;
+    text-decoration: none;
+}
+
+/* paragraph styling */
+
+p {
+	width: 1440px;
+    color:#FCFFF5;
+    line-height: 2;
+    font-family: Helvetica, Verdana, sans serif;
+    font-style: italic;
+    font-size: 20px;
+    text-align: justify;
+    text-indent: 25px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #000000;
+    padding: 20px;
+    background-color: #3E606F;
+    margin: 10px auto;
+}
+
+/* list styling */
+
+.list {
+	list-style-type: none;
+	color:#FCFFF5;
+    line-height: 2;
+    font-family: Helvetica, Verdana, sans serif;
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+    text-indent: 25px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #000000;
+    padding: 20px;
+    background-color: #3E606F;
+    margin: 10px auto;
+}
+
+.frame {
+	border: 3px solid #000;
+	width: 300px;
+	height: 200px;
+	margin: 60px auto 5px auto;
+	padding: 10px;
+	background-color: #3E606F;	
+}
+
+article {
+	float: left;
+	width: 800px;
+}

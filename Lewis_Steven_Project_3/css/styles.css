@@ -134,13 +134,13 @@ p {
 
 #float_left {
 	float: left;
-	width: 700px;
+	width: 800px;
 	margin: 10px 20px;
 }
 
 aside {
 	float: right;
-	width: 400px;
+	width: 500px;
 	margin: 10px 40px;
 }
 footer {

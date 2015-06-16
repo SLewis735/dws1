@@ -99,7 +99,7 @@ p {
     border-style: solid;
     border-color: #000000;
     padding: 20px;
-    background: #3E606F url("../images/quitter-logo.png");
+    background: #3E606F;
     margin: 10px auto;
 }
 
@@ -151,6 +151,8 @@ footer {
 #effects {
 	background-image: url("../images/1434447047_emergency.png");
     background-repeat: no-repeat;
+    height: 20px;
+    padding: 10px;
 }
 
 

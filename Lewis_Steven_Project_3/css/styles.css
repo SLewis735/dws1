@@ -108,7 +108,6 @@ p {
 }
 
 #intro_p {
-	p {
 	width: 1440px;
     color:#FCFFF5;
     line-height: 2;
@@ -123,7 +122,6 @@ p {
     padding: 20px;
     background-color: #3E606F;
     margin: 10px auto;
-   }
 }
 
 /* list styling */

@@ -118,7 +118,7 @@ p {
     border-style: solid;
     border-color: #000000;
     padding: 20px;
-    background-color: #3E606F;
+    background: linear-gradient(#91AA9D, #193441);
     margin: 10px auto;
 }
 

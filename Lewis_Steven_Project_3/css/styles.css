@@ -83,7 +83,7 @@ a:active {
     text-decoration: none;
 }
 
-/* paragraph styling */
+/* paragraph styling. general styling for the paragraphs  */
 
 
 p {
@@ -102,7 +102,7 @@ p {
     margin: 10px auto;
 }
 
-/* list styling */
+/* list styling. Place the benefits and methods data in a list  */
 
 .list {
 	list-style-type: none;
@@ -130,7 +130,7 @@ p {
 	background-color: #3E606F;	
 }
 
-/* float styling */
+/* float styling. This is using the float element to place the article and the list next to the gallery */
 
 #float_left {
 	float: left;
@@ -144,7 +144,7 @@ aside {
 	margin: 10px 40px;
 }
 footer {
-	float: left;
+	clear: left;
 }
 
 

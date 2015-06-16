@@ -37,7 +37,7 @@ h2 {
     border-color: #000000;
     border-width: 6px;
     padding: 20px 40px;
-    background: rgba(255,255,245,0.6) url("../images/quitter-logo.png");
+    background-color: rgba(255,255,245,0.6);
     margin: 10px auto;
 }
 	
@@ -99,7 +99,7 @@ p {
     border-style: solid;
     border-color: #000000;
     padding: 20px;
-    background-color: #3E606F;
+    background: #3E606F url("../images/quitter-logo.png");
     margin: 10px auto;
 }
 

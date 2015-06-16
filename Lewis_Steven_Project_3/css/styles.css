@@ -148,6 +148,10 @@ footer {
 	clear: left;
 }
 
+#intro {
+	background-image: url("../images/quitter-logo.png");
+    background-repeat: no-repeat;
+}
 #effects {
 	background-image: url("../images/1434447047_emergency.png");
     background-repeat: no-repeat;

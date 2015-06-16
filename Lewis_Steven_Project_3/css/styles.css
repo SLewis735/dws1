@@ -4,7 +4,7 @@ body {
 	width: 1440px;
 	margin: 10px auto;
 	text-align: center;
-	background: linear-gradient(#91AA9D, #193441) url("../images/quitter-logo.png") no-repeat fixed top center;
+	background: url("../images/quitter-logo.png") no-repeat fixed top center;
 }
 
 /* header stylings */
@@ -99,7 +99,7 @@ p {
     border-style: solid;
     border-color: #000000;
     padding: 20px;
-    background: #3E606F;
+    background: linear-gradient(#91AA9D, #193441)
     margin: 10px auto;
 }
 

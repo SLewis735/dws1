@@ -140,10 +140,10 @@ p {
 aside {
 	float: left;
 	width:  400px;
-} /*
+} 
 footer {
-	float: clear;
-} /*
+	float: left;
+}  /*
 #methods {
 	width: 800px;
 }

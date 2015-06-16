@@ -4,7 +4,8 @@ body {
 	width: 1440px;
 	margin: 10px auto;
 	text-align: center;
-	background: #91AA9D url("../images/quitter-logo.png") no-repeat fixed top center;
+	background-image: url("../images/quitter-logo.png") no-repeat fixed top center;
+	background: linear-gradient(#91AA9D, #3E606F);
 }
 
 /* header stylings */
@@ -148,10 +149,8 @@ footer {
 	clear: left;
 }
 
-#intro {
-	background-image: url("../images/quitter-logo.png");
-    background-repeat: no-repeat;
-}
+/* background icons */
+
 #effects {
 	background-image: url("../images/1434447047_emergency.png");
     background-repeat: no-repeat;

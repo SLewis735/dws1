@@ -151,7 +151,18 @@ footer {
 #effects {
 	background-image: url("../images/1434447047_emergency.png");
     background-repeat: no-repeat;
-    padding: 50px 60px;
+}
+#methods {
+	background-image: url("../images/1434447033_microscope.png");
+    background-repeat: no-repeat;
+}
+#benefits {
+	background-image: url("../images/1434447051_medical_bag.png");
+    background-repeat: no-repeat;
+}
+#about_us {
+	background-image: url("../images/1434447202_nurse.png");
+    background-repeat: no-repeat;
 }
 
 

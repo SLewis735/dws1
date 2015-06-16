@@ -137,4 +137,9 @@ p {
 	width: 700px;
 }
 
+aside {
+	float: right;
+	width: 300px;
+}
+
 

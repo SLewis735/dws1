@@ -39,10 +39,12 @@ h2 {
     padding: 20px 40px;
     background-color: rgba(255,255,245,0.6);
     margin: 10px auto;
+}
+#intro {
     background-image: url("../images/quitter-logo.png");
     background-repeat: no-repeat;
-    height: 
-    padding: 
+    height: 4px;
+    padding: 10px;
 }
 	
 h3 {

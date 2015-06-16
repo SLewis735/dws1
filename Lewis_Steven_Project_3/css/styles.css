@@ -130,6 +130,11 @@ p {
 	background-color: #3E606F;	
 }
 
-/* float styling 
+/* float styling */
+
+#float_left {
+	float: left;
+	width: 700px;
+}
 
 

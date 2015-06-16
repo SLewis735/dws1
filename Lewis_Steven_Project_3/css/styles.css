@@ -139,3 +139,6 @@ aside {
 	float: right;
 	width:  400px;
 }
+footer {
+	float: clear;
+}

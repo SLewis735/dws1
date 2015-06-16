@@ -37,7 +37,7 @@ h2 {
     border-color: #000000;
     border-width: 6px;
     padding: 20px 40px;
-    background: rgba(255,255,245,0.6) url("../images/quitter-logo.png") repeat-x;
+    background: rgba(255,255,245,0.6) url("../images/quitter-logo.png");
     margin: 10px auto;
 }
 	

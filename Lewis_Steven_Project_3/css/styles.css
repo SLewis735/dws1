@@ -87,8 +87,6 @@ a:active {
 
 
 p {
-	float: left;
-	width: 600px;
     color:#FCFFF5;
     line-height: 2;
     font-family: Helvetica, Verdana, sans serif;
@@ -135,15 +133,3 @@ p {
 /* float styling 
 
 
-aside {
-	float: right;
-	width:  400px;
-} 
-
-#gallery {
-	float: right;
-	width: 400px;
-}
-footer {
-	float: left;
-}  */

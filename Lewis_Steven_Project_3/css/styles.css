@@ -10,9 +10,9 @@ body {
 /* header stylings */
 
 h1 {
-	background-image: url("../images/presence.png");
+	background: rgba(255,255,245,0.6) url("../images/presence.png");
     color: #193441;
-    background-color: rgba(255,255,245,0.6);
+    /* background-color: rgba(255,255,245,0.6); */
     font-size: 108px;
     font-family: 'Pacifico', cursive;
     text-shadow: 5px 5px 10px #000;
@@ -26,7 +26,19 @@ h1 {
     padding: 25px 70px;
     margin: 30px auto;
 }
-
+#intro {
+	color: #193441;
+	font-size: 72px;
+	font-family: 'Pacifico', cursive;
+	text-shadow: 3px 3px 6px #000;
+	border-radius: 10px;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 6px;
+    padding: 20px 40px;
+    background-color: rgba(255,255,245,0.1);
+    margin: 10px auto;
+}
 h2 {
 	color: #193441;
 	font-size: 72px;

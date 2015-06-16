@@ -171,13 +171,13 @@ p {
 
 
 aside {
-	float: left;
-	width:  300px;
+	float: clear;
+	width:  400px;
 } 
 
 #gallery {
-	float: left;
-	width: 300px;
+	float: clear;
+	width: 400px;
 }
 footer {
 	float: left;

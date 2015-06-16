@@ -27,7 +27,8 @@ h1 {
 }
 
 h2 {
-	width: 1400px;
+	float: left;
+	width: 800px;
 	color: #193441;
 	font-size: 72px;
 	font-family: 'Pacifico', cursive;
@@ -42,6 +43,8 @@ h2 {
 }
 	
 h3 {
+	float: left;
+	width: 800px;
 	font-size: 30px;
 	font-family: Comic Sans MS, Arial, sans serif;
 	font-weight: bold;
@@ -87,6 +90,24 @@ a:active {
 /* paragraph styling */
 
 p {
+	float: left;
+	width: 800px;
+    color:#FCFFF5;
+    line-height: 2;
+    font-family: Helvetica, Verdana, sans serif;
+    font-style: italic;
+    font-size: 20px;
+    text-align: justify;
+    text-indent: 25px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #000000;
+    padding: 20px;
+    background-color: #3E606F;
+    margin: 10px auto;
+}
+
+#intro_p {
 	width: 1440px;
     color:#FCFFF5;
     line-height: 2;
@@ -133,21 +154,11 @@ p {
 
 /* float styling */
 
-/* section {
-	float: left;
-	width: 800px;
-} */
+
 aside {
 	float: left;
 	width:  400px;
 } 
 footer {
 	float: left;
-}  /*
-#methods {
-	width: 800px;
-}
-#benefits {
-	width: 800px;
-} */
-
+}  

@@ -132,3 +132,7 @@ p {
 	background-color: #3E606F;	
 }
 
+article {
+	float: left;
+	width: 800px;
+}

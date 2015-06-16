@@ -41,7 +41,7 @@ h1 {
 }
 h2 {
 	float: left;
-	width: 800px;
+	width: 700px;
 	color: #193441;
 	font-size: 72px;
 	font-family: 'Pacifico', cursive;
@@ -57,7 +57,7 @@ h2 {
 	
 h3 {
 	float: left;
-	width: 800px;
+	width: 700px;
 	font-size: 30px;
 	font-family: Comic Sans MS, Arial, sans serif;
 	font-weight: bold;
@@ -121,7 +121,7 @@ a:active {
 
 p {
 	float: left;
-	width: 800px;
+	width: 700px;
     color:#FCFFF5;
     line-height: 2;
     font-family: Helvetica, Verdana, sans serif;
@@ -141,7 +141,7 @@ p {
 
 .list {
 	float: left;
-	width: 800px;
+	width: 700px;
 	list-style-type: none;
 	color:#FCFFF5;
     line-height: 2;
@@ -171,12 +171,12 @@ p {
 
 
 aside {
-	float: clear;
+	float: right;
 	width:  400px;
 } 
 
 #gallery {
-	float: clear;
+	float: right;
 	width: 400px;
 }
 footer {

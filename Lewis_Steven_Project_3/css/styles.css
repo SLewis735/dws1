@@ -25,23 +25,8 @@ h1 {
     padding: 25px 70px;
     margin: 30px auto;
 }
-#intro {
-	width: 1440px;
-	color: #193441;
-	font-size: 72px;
-	font-family: 'Pacifico', cursive;
-	text-shadow: 3px 3px 6px #000;
-	border-radius: 10px;
-    border-style: solid;
-    border-color: #000000;
-    border-width: 6px;
-    padding: 20px 40px;
-    background-color: rgba(255,255,245,0.6);
-    margin: 10px auto;
-}
+
 h2 {
-	float: left;
-	width: 600px;
 	color: #193441;
 	font-size: 72px;
 	font-family: 'Pacifico', cursive;
@@ -56,8 +41,6 @@ h2 {
 }
 	
 h3 {
-	float: left;
-	width: 600px;
 	font-size: 30px;
 	font-family: Comic Sans MS, Arial, sans serif;
 	font-weight: bold;
@@ -102,22 +85,6 @@ a:active {
 
 /* paragraph styling */
 
-#intro_p {
-	width: 1440px;
-    color:#FCFFF5;
-    line-height: 2;
-    font-family: Helvetica, Verdana, sans serif;
-    font-style: italic;
-    font-size: 20px;
-    text-align: justify;
-    text-indent: 25px;
-    border-radius: 10px;
-    border-style: solid;
-    border-color: #000000;
-    padding: 20px;
-    background-color: #3E606F;
-    margin: 10px auto;
-}
 
 p {
 	float: left;
@@ -140,8 +107,6 @@ p {
 /* list styling */
 
 .list {
-	float: left;
-	width: 600px;
 	list-style-type: none;
 	color:#FCFFF5;
     line-height: 2;
@@ -167,7 +132,7 @@ p {
 	background-color: #3E606F;	
 }
 
-/* float styling */
+/* float styling 
 
 
 aside {
@@ -181,4 +146,4 @@ aside {
 }
 footer {
 	float: left;
-}  
+}  */

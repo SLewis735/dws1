@@ -131,6 +131,9 @@ p {
 	padding: 10px;
 	background-color: #3E606F;	
 }
+
+/* float styling */
+
 section {
 	float: left;
 	width: 800px;
@@ -142,3 +145,10 @@ aside {
 footer {
 	float: clear;
 }
+#methods {
+	width: 800px;
+}
+#benefits {
+	width: 800px;
+}
+

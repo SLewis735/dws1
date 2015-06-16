@@ -135,3 +135,7 @@ section {
 	float: left;
 	width: 800px;
 }
+aside {
+	float: right;
+	width:  400px;
+}

@@ -132,14 +132,14 @@ p {
 	background-color: #3E606F;	
 }
 
-/* float styling */
+/* float styling 
 
 section {
 	float: left;
 	width: 800px;
 }
 aside {
-	float: right;
+	float: clear;
 	width:  400px;
 }
 footer {
@@ -150,5 +150,5 @@ footer {
 }
 #benefits {
 	width: 800px;
-}
+} */
 

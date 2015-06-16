@@ -89,9 +89,8 @@ a:active {
 
 /* paragraph styling */
 
-p {
-	float: left;
-	width: 800px;
+#intro_p {
+	width: 1440px;
     color:#FCFFF5;
     line-height: 2;
     font-family: Helvetica, Verdana, sans serif;
@@ -107,8 +106,9 @@ p {
     margin: 10px auto;
 }
 
-#intro_p {
-	width: 1440px;
+p {
+	float: left;
+	width: 800px;
     color:#FCFFF5;
     line-height: 2;
     font-family: Helvetica, Verdana, sans serif;

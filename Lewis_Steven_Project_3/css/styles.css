@@ -1,7 +1,7 @@
 /* body styling to include non repeating fixed background image */
 
 body {
-	width: 1440px;
+	width: 100%;
 	margin: 10px auto;
 	text-align: center;
 	background: #91AA9D url("../images/quitter-logo.png") no-repeat fixed top center;
@@ -20,7 +20,7 @@ h1 {
     border-color: #000000;
     border-radius: 8px;
     box-shadow: 5px 5px 5px 5px #000;
-    width: 1300px;
+    width: 91%;
     height: 70%;
     padding: 25px 70px;
     margin: 30px auto;
@@ -139,7 +139,7 @@ p {
 
 .frame {
 	border: 3px solid #000;
-	width: 300px;
+	width: 55%;
 	height: 200px;
 	margin: 60px auto 5px auto;
 	padding: 10px;
@@ -150,13 +150,13 @@ p {
 
 #float_left {
 	float: left;
-	width: 800px;
+	width: 55%;
 	margin: 10px 20px;
 }
 
 aside {
 	float: right;
-	width: 500px;
+	width: 35%;
 	margin: 10px 40px;
 }
 footer {

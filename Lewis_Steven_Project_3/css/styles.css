@@ -20,7 +20,7 @@ h1 {
     border-color: #000000;
     border-radius: 8px;
     box-shadow: 5px 5px 5px 5px #000;
-    width: 91%;
+    width: 90%;
     height: 70%;
     padding: 25px 70px;
     margin: 30px auto;
@@ -77,7 +77,7 @@ nav li {
     border-radius: 4px;
     box-shadow: 4px 4px 4px 4px #000;
     padding: 10px 20px;
-    margin: 20px 12px 8px 12px; 
+    margin: 20px .8% 8px .8%; 
 }
 /* pseudo class styling for the navigation bar */
 
@@ -139,7 +139,7 @@ p {
 
 .frame {
 	border: 3px solid #000;
-	width: 55%;
+	width: 300px;
 	height: 200px;
 	margin: 60px auto 5px auto;
 	padding: 10px;

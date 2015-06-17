@@ -162,6 +162,10 @@ aside {
 footer {
 	clear: left;
 }
+#top-of-page {
+	clear: left;
+	font-size: 20px;
+}
 
 /* background icons */
 

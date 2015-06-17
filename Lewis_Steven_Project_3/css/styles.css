@@ -1,4 +1,4 @@
-/* body styling */
+/* body styling to include non repeating fixed background image */
 
 body {
 	width: 1440px;
@@ -7,7 +7,7 @@ body {
 	background: #91AA9D url("../images/quitter-logo.png") no-repeat fixed top center;
 }
 
-/* header stylings */
+/* header stylings include a background image with repeating pattern, styling for @font-face, font styling and border styling */
 
 h1 {
 	background-image: url("../images/presence.png");
@@ -25,6 +25,9 @@ h1 {
     padding: 25px 70px;
     margin: 30px auto;
 }
+ 
+/* The id intro includes styling for the background color that has a different gradient from the other heading elements */
+
 #intro {
 	color: #193441;
 	font-size: 72px;
@@ -95,7 +98,7 @@ a:active {
     text-decoration: none;
 }
 
-/* paragraph styling. general styling for the paragraphs  */
+/* paragraph styling. general styling for the paragraphs. A background linear gradient is included  */
 
 
 p {
@@ -114,7 +117,8 @@ p {
     margin: 10px auto;
 }
 
-/* list styling. Place the benefits and methods data in a list  */
+/* list styling. Place the benefits and methods data in a list. A background linear gradient is included
+	to the list styling  */
 
 .list {
 	list-style-type: none;

@@ -12,7 +12,7 @@ body {
 h1 {
 	background-image: url("../images/presence.png");
     color: #193441;
-    font-size: 108px;
+    font-size: 6.750em;
     font-family: 'Pacifico', cursive;
     text-shadow: 5px 5px 10px #000;
     border-width: 12px; 
@@ -30,7 +30,7 @@ h1 {
 
 #intro {
 	color: #193441;
-	font-size: 72px;
+	font-size: 4.5em;
 	font-family: 'Pacifico', cursive;
 	text-shadow: 3px 3px 6px #000;
 	border-radius: 10px;
@@ -43,7 +43,7 @@ h1 {
 }
 h2 {
 	color: #193441;
-	font-size: 72px;
+	font-size: 4.5em;
 	font-family: 'Pacifico', cursive;
 	text-shadow: 3px 3px 6px #000;
 	border-radius: 10px;
@@ -56,7 +56,7 @@ h2 {
 }
 	
 h3 {
-	font-size: 30px;
+	font-size: 1.875em;
 	font-family: Comic Sans MS, Arial, sans serif;
 	font-weight: bold;
 }
@@ -65,7 +65,7 @@ h3 {
 
 nav li {
     color:#FCFFF5;
-    font-size: 18px;
+    font-size: 1.125em;
     font-family: Arial, Verdana, sans serif;
     list-style: none;
     display: inline;
@@ -106,7 +106,7 @@ p {
     line-height: 2;
     font-family: Helvetica, Verdana, sans serif;
     font-style: italic;
-    font-size: 20px;
+    font-size: 1.250em;
     text-align: justify;
     text-indent: 25px;
     border-radius: 10px;
@@ -126,7 +126,7 @@ p {
     line-height: 2;
     font-family: Helvetica, Verdana, sans serif;
     font-style: italic;
-    font-size: 20px;
+    font-size: 1.250em;
     text-align: center;
     text-indent: 25px;
     border-radius: 10px;
@@ -136,7 +136,7 @@ p {
     background: linear-gradient(#91AA9D, #193441);
     margin: 10px auto;
 }
-
+/* NOTE: Unable to convert the frame to percentage due to .frame being associated with the images in the html coding */
 .frame {
 	border: 3px solid #000;
 	width: 300px;
@@ -164,7 +164,7 @@ footer {
 }
 #top-of-page {
 	clear: left;
-	font-size: 20px;
+	font-size: 1.250em;
 }
 
 /* background icons */

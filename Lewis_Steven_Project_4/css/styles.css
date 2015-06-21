@@ -194,3 +194,14 @@ table {
     width: 55%;
 	margin: .694%;
 }
+tr:hover {
+	color: #777;
+}
+th { 
+	border: 2px solid #fff;
+	text-transform: uppercase;
+	background-color: #bcc6cc;
+}
+th, td { 
+	padding: 2px;
+}	

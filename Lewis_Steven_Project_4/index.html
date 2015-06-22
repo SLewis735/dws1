@@ -260,16 +260,16 @@
       		action="http://example.com/join.php">
       		<fieldset class="form_style">
 				<legend>Personal Information</legend>
-				<label for="firstname">First Name:</label>
+				<label for="firstname" class="title">First Name:</label>
 				<input type="text" name="firstname"
 					id="firstname" required="required"/>
-				<label for="lastname">Last Name:</label>
+				<label for="lastname" class="title">Last Name:</label>
 				<input type="text" name="lastname"
 					id="lastname" required="required"/>
 				<label for="age">Age:</label>
 				<input type="text" name="age"
 					id="age" required="required"/>
-				Gender:
+				<span class="title">Gender:
 				<input id="female" type="radio" 
 				 name="gender" value="f" />
 				<label for="female">Female:</label>
@@ -281,10 +281,10 @@
       		</fieldset>
       		<fieldset class="form_style">
       			<legend>Contact Information</legend>
-      			<label for="email">Email Address:</label>
+      			<label for="email" class="title">Email Address:</label>
 				<input type="email" name="email"
 					id="email" />
-				<label for="phone">Telephone Number:</label>
+				<label for="phone" class="title">Telephone Number:</label>
 				<input type="text" name="phone"
 					id="phone" />
 				<input type="submit"

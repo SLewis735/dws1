@@ -109,6 +109,7 @@ p {
     text-align: justify;
     text-indent: 25px;
     border: 10px solid #000;
+    border-radius: 10px;
     padding: 20px;
     background: linear-gradient(#91AA9D, #193441);
     margin: 10px auto;
@@ -127,6 +128,7 @@ p {
     text-align: center;
     text-indent: 25px;
     border: 10px solid #000;
+    border-radius: 10px;
     padding: 20px;
     background: linear-gradient(#91AA9D, #193441);
     margin: 10px auto;
@@ -200,7 +202,7 @@ tr:hover {
 th { 
 	border: 2px solid #fff;
 	text-transform: uppercase;
-	background-color: #bcc6cc;
+	background-color: rgba(255,255,245,0.6);
 }
 th, td { 
 	padding: 2px;

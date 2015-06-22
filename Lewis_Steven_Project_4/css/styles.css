@@ -200,16 +200,15 @@ tr:hover {
 	color: #ffd700;
 }
 th { 
-	border: 2px solid #fff;
+	color: #91AA9D;
+	border: 2px solid #000;
 	text-transform: uppercase;
 	background-color: rgba(255,255,245,0.6);
 	padding: 4px;
 }
 td { 
 	padding: 4px;
-	border: 2px solid #000;
-	
-	
+	border: 2px solid #000;	
 }
 tr.even {
 	background-color: #91AA9D;

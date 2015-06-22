@@ -267,10 +267,19 @@ textarea:hover {
 legend {
 	border: 4px solid #000;
 	background: linear-gradient(#91AA9D, #193441);
-	font-size: 22px;
+	font-size: 20px;
 	text-transform: uppercase;
-	padding: 6px;
+	padding: 5px;
 }
 .title {
 	float: left;
+	width: 100px;
+	text-align: left;
+	padding-right: 10px;
+}
+.radio-button label {
+	float: none;
+}
+.submit {
+	text-align: center;
 }

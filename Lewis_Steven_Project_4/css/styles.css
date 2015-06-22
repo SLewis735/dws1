@@ -223,7 +223,7 @@ tr.even {
 /* form styling */
 
 input#submit:hover {
-	color: #fff;
+	color: #ffd700;
 }
 input {
 	border: 3px solid #000;
@@ -232,11 +232,11 @@ input {
 	border-radius: 4px;
 }
 input:focus {
-	background-color: #777;
+	background-color: #91AA9D;
 	color: rgba(255,29,35,0.4);
 }
 input:hover {
-	background-color: #bcc6cc;
+	background-color: #ffd700;
 }
 textarea {
 	width: 450px;
@@ -249,5 +249,5 @@ textarea:focus {
 	color: rgba(255,29,35,0.4);
 }
 textarea:hover {
-	background-color: #bcc6cc;
+	background-color: #ffd700;
 }

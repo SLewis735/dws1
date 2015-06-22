@@ -277,9 +277,9 @@ legend {
 	text-align: left;
 	padding-right: 10px;
 }
-.radio-button label {
+.radio-buttons label {
 	float: none;
 }
 .submit {
-	text-align: center;
+	text-align: right;
 }

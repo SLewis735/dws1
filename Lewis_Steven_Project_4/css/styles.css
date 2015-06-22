@@ -183,7 +183,7 @@ footer {
     background-repeat: no-repeat;
 }
 
-/* table styling */
+/* table styling that includes styling the heading, columns and rows, plus adding a hover element */
 
 table {
 	background: linear-gradient(#91AA9D, #193441);

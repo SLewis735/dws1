@@ -262,13 +262,13 @@
 				<legend>Personal Information</legend>
 				<label for="firstname">First Name:</label>
 				<input type="text" name="firstname"
-					id="firstname" />
+					id="firstname" required="required"/>
 				<label for="lastname">Last Name:</label>
 				<input type="text" name="lastname"
-					id="lastname" />
+					id="lastname" required="required"/>
 				<label for="age">Age:</label>
 				<input type="text" name="age"
-					id="age" />
+					id="age" required="required"/>
 				Gender:
 				<input id="female" type="radio" 
 				 name="gender" value="f" />
@@ -282,13 +282,19 @@
       		<fieldset>
       			<legend>Contact Information</legend>
       			<label for="email">Email Address:</label>
-				<input type="text" name="email"
+				<input type="email" name="email"
 					id="email" />
 				<label for="phone">Telephone Number:</label>
 				<input type="text" name="phone"
 					id="phone" />
 				<input type="submit"
 				   	   value="submit" />
+			</fieldset>
+			<fieldset>
+				<legend>Search for Smoking Cessation Counselors</legend>
+				<input type="search" name="search"
+				       placeholder="Enter your Zip Code" />
+				<input type="submit" value="Search" />
 			</fieldset>
       </form>
       <h3 id="Tell_your_story">If you have quit smoking, Tell your story</h3>

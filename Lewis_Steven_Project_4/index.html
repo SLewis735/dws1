@@ -256,7 +256,7 @@
 		</figure>
       </aside> <!-- End of sidebar and gallery -->
       <h3 id="request">Request HELP!</h3>
-      <form
+      <form id="help"
       		action="http://example.com/join.php">
       		<fieldset>
 				<legend>Personal Information</legend>
@@ -276,6 +276,8 @@
 				<input id="male" type="radio" 
 				 name="gender" value"m" />
 				<label for="male">Male:</label>
+				<input type="submit
+					   value="submit" />
       		</fieldset>
       		<fieldset>
       			<legend>Contact Information</legend>
@@ -285,8 +287,21 @@
 				<label for="phone">Telephone Number:</label>
 				<input type="text" name="phone"
 					id="phone" />
+				<input type="submit
+				   	   value="submit" />
 			</fieldset>
       </form>
+      <h3 id="Tell_your_story">If you have quit smoking, Tell your story</h3>
+      <form id="story"
+      		action="http://example.com/join.php">
+      		<fieldset>
+      			<legend>Give Your Testimony</legend>
+      			<label for="testimony">Testimony:</label>
+				<textarea name="testimony">
+					Enter your story...
+					<id="testimony" /textarea>
+      			
+      </form>		
     </div> <!-- End of content div container -->
      <div id="top-of-page"><a href="#">Top of Page</a>
     </div>

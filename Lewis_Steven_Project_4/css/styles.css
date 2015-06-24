@@ -271,7 +271,7 @@ legend {
 	padding: 5px;
 }
 .title {
-	/* float: left; */
+	float: left;
 	text-align: left;
 	padding-right: 10px;
 }

@@ -271,11 +271,10 @@ legend {
 	padding: 5px;
 }
 .title {
-	width: 200px;
+	width: 300px;
 	float: left;
 	text-align: left;
 	padding-right: 10px;
-	display: inline-block;
 }
 .radio-buttons label {
 	float: none;

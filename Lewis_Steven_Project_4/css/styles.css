@@ -262,7 +262,6 @@ textarea:hover {
     border-radius: 10px;
     margin: 20px 0px 20px 0px;	
     background-color: #91AA9D;
-    float: left;
 }
 legend {
 	border: 4px solid #000;
@@ -281,5 +280,5 @@ legend {
 	float: none;
 }
 .submit {
-	text-align: right;
+	text-align: left;
 }

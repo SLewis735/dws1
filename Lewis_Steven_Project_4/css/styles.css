@@ -284,4 +284,5 @@ legend {
 	text-align: left;
 	cursor: pointer;
 	width: 80px;
+	clear; left;
 }

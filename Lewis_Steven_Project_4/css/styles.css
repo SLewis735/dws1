@@ -278,11 +278,11 @@ legend {
 	padding-right: 10px;
 }
 .radio-buttons label {
+	width: 100px;
 	float: none;
 }
 .submit {
 	text-align: left;
 	cursor: pointer;
 	width: 80px;
-	clear; left;
 }

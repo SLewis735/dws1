@@ -232,7 +232,7 @@ input {
 	font-size: 10px;
 	text-shadow: 0px 1px 1px #000;
 	border-radius: 4px;
-	display: block;
+	/* display: block; */
 	
 }
 input:focus {
@@ -271,8 +271,8 @@ legend {
 	padding: 5px;
 }
 .title {
-	float: left;
-	width: 80px;
+	/* float: left; */
+	width: 120px;
 	text-align: left;
 	padding-right: 10px;
 }

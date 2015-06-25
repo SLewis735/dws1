@@ -1,8 +1,7 @@
 /* body styling to include non repeating fixed background image */
 
 body {
-	color: #fff;s
-	width: 100%;
+	color: #fff;
 	margin: 10px auto;
 	text-align: center;
 	background: url("../images/quitter-logo.png") no-repeat fixed top center, linear-gradient(#91AA9D, #193441); 

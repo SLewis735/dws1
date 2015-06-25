@@ -273,7 +273,7 @@ label {
 	width: 100px;
 	float: left;
 	text-align: left;
-	margin-right: 15px;
+	padding-right: 15px;
 }
 
 .radio-buttons label {

@@ -16,5 +16,8 @@ var economy = "Your contribution to society and to the state's economy for a lif
 alert(smoking);
 alert(economy);
 
+alert("The real cost of smoking is your health and life.");
+alert("Are you ready to be a Quitter?");
+
 
 

@@ -7,7 +7,7 @@ var days = prompt("How many days a week do you smoke?");
 var years = prompt("How many years have you smoke?");
 cost = 5.51
 total = packs * days * years * cost;
-var smoking = "This is the average amount you spend on cigarettes in your lifetime " + total;
+var smoking = "This is the average amount you spend on cigarettes in your lifetime is " + '$'total;
 alert(smoking);
 //if( < 10){
 //	alert("Sorry that you are not eating well, Come down to Stabs for some good cooking!!!");

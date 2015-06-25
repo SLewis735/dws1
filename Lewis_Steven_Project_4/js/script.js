@@ -16,7 +16,7 @@ var economy = "Your contribution to society and to the state's economy for a lif
 vacation = 1000
 alert(smoking);
 alert(economy);
-if(smoking > vacation){alert("Just think of the vacations you could have enjoyed with the family or buying that new toys you had your eye on");
+if(vacation < smoking){alert("Just think of the vacations you could have enjoyed with the family or buying that new toys you had your eye on");
 }
 alert("The real cost of smoking is your health and life.");
 alert("Are you ready to be a Quitter?");

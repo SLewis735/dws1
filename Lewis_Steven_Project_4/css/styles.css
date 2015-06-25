@@ -277,6 +277,5 @@ label {
 }
 .submit {
 	text-align: left;
-	cursor: pointer;
-	width: 80px;
+	width: 50px;
 }

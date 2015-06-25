@@ -276,7 +276,7 @@
 						id="phone" required="required" /><br />
 					<label for="email">Email Address:</label>
 					<input type="email" name="email"
-						id="email" /><br />
+						id="email" placeholder="example@example.com" /><br />
 					<input type="submit" id="submit"
 						   value="submit" />
 				</div>
@@ -290,7 +290,8 @@
 				<label for="search" id="search">Search:</label>
 				<input type="search" name="search"
 				       placeholder="Enter your Zip Code" />
-				<input type="submit" value="Search" id="submit"/>
+				<input type="submit" value="Search" id="submit"
+						required="required"/>
 			</fieldset>
       </form>
       <h3 id="Tell_your_story">If you have quit smoking, Tell your story</h3>
@@ -327,9 +328,13 @@
                             </h4>
                             <input id="submit" type="submit"
                                        value="Submit" /><label for="submit"></label>
-				
-			</fieldset>
-      			
+                <h4>Check any side effects that you experienced<br />
+                			<input type="checkbox" name="side_effects"value"Symptoms" checked="checked" /> Symptoms
+                			<input type="checkbox" name="side_effects"value"Weight gain" checked="checked" /> Weight gain
+                			<input type="checkbox" name="side_effects"value"Depression" checked="checked" /> Depression
+                			<input type="checkbox" name="side_effects"value"Anxiety" checked="checked" /> Anxiety
+                			</h4>
+			</fieldset>		
       </form>	<!-- End of the form markup -->	
     </div> <!-- End of content div container -->
      <div id="top-of-page"><a href="#">Top of Page</a>

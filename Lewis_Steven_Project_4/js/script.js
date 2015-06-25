@@ -12,7 +12,7 @@ grand = packs * days * years * society;
 alert("The average retail price of a pack of cigarettes in America is $5.51.");
 alert("But the real price of a pack of cigarettes to society and to the state's economy is $18.05 per pack.");
 var smoking = "This is the average amount you spend on cigarettes in your lifetime is " + total;
-var economy = "Your contribution to society and to the state's economy for a lifetime of smoking is " + economy;
+var economy = "Your contribution to society and to the state's economy for a lifetime of smoking is " + grand;
 alert(smoking);
 alert(economy);
 

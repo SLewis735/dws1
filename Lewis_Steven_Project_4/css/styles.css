@@ -275,7 +275,7 @@ label {
 	text-align: right;
 	padding-right: 5px;
 }
-#submit {
+.submit {
 	background: linear-gradient(#91AA9D, #193441);
 	width: 100px; 
 }

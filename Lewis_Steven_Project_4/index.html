@@ -271,7 +271,7 @@
 					<label for="email">Email Address:</label>
 					<input type="email" name="email"
 						id="email" placeholder="example@example.com" /><br />
-					<input type="submit" id="submit"
+					<input type="submit" class="submit"
 						   value="submit" />
 				</div>
 			</fieldset>
@@ -281,11 +281,10 @@
       		action="http://example.com/join.php">
 			<fieldset class="form_style">
 				<legend>Search for Smoking Cessation Counselors</legend>
-				<label for="search" id="search">Search:</label>
-				<input type="search" name="search"
-				       placeholder="Enter your Zip Code" />
-				<input type="submit" value="Search" id="submit"
-						required="required"/>
+				<label for="search">Search:</label>
+				<input type="search" name="search" id="search"
+				       placeholder="Enter your Zip Code" required="required" />
+				<input type="submit" value="Search" class="submit"/>
 			</fieldset>
       </form>
       <h3 id="Tell_your_story">If you have quit smoking, Tell your story</h3>
@@ -321,10 +320,10 @@
                                 </select>
                             </h4>
                  <h4>Check any side effects that you experienced<br />
-                			<input type="checkbox" name="side_effects" value"Symptoms" class="effects" /> Symptoms
-                			<input type="checkbox" name="side_effects" value"Weight gain" class="effects" /> Weight gain
-                			<input type="checkbox" name="side_effects" value"Depression" class="effects" /> Depression
-                			<input type="checkbox" name="side_effects" value"Anxiety" class="effects" /> Anxiety
+                			<input type="checkbox" name="side_effects" value"symptoms" class="effects" /> Symptoms
+                			<input type="checkbox" name="side_effects" value"weight_gain" class="effects" /> Weight gain
+                			<input type="checkbox" name="side_effects" value"depression" class="effects" /> Depression
+                			<input type="checkbox" name="side_effects" value"anxiety" class="effects" /> Anxiety
                 			</h4>
                  <input id="submit" type="submit"
                                        value="Submit" /><label for="submit"></label>

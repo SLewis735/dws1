@@ -281,4 +281,6 @@ label {
 }
 .effects {
 	width: 10px;
+	color: #000;
+	font-size: 16px;
 }

@@ -275,11 +275,11 @@ legend {
 	text-transform: uppercase;
 	padding: 5px;
 }
-.title {
+/* .title {
 	width: 200px;
 	float: left;
 	text-align: left;
-	padding-right: 10px;
+	padding-right: 10px; */
 }
 .radio-buttons label {
 	width: 100px;

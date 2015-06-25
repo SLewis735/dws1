@@ -275,6 +275,13 @@ label {
 	text-align: right;
 	margin-right: 15px;
 }
+.title {
+	width: 200px;
+	float: left;
+	text-align: right;
+	margin-right: 15px;
+}
+
 .radio-buttons label {
 	float: left;
 }

@@ -275,12 +275,6 @@ label {
 	text-align: left;
 	margin-right: 15px;
 }
-.title {
-	width: 200px;
-	float: left;
-	text-align: right;
-	margin-right: 15px;
-}
 
 .radio-buttons label {
 	float: left;
@@ -289,4 +283,7 @@ label {
 	text-align: left;
 	cursor: pointer;
 	width: 80px;
+}
+#search {
+	width: 50px;
 }

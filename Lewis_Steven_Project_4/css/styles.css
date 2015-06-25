@@ -223,7 +223,6 @@ tr.even {
 /* form styling */
 
 input#submit:hover {
-	background-color: #ffd700;
 	text-transform: uppercase;
 	font-size: 20px;
 	width: 100px;
@@ -278,5 +277,5 @@ label {
 }
 #submit {
 	background: linear-gradient(#91AA9D, #193441);
-	width: 50px; 
+	width: 80px; 
 }

@@ -272,7 +272,7 @@ legend {
 label {
 	width: 60px;
 	float: left;
-	text-align: right;
+	text-align: left;
 	margin-right: 15px;
 }
 .title {

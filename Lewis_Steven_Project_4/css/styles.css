@@ -234,11 +234,11 @@ input {
 	border-radius: 4px;
 	width: 300;
 }
-#clearfix {
-	clear: both;
+/* #clearfix {
+	clear: both; 
 }
 #no_float {
-	float: none;
+	float: none; */
 }
 input:focus {
 	background-color: #91AA9D;

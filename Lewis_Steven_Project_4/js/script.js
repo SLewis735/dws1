@@ -13,9 +13,10 @@ alert("The average retail price of a pack of cigarettes in America is $5.51.");
 alert("But the real price of a pack of cigarettes to society and to the state's economy is $18.05 per pack.");
 var smoking = "This is the average amount you spend on cigarettes in your lifetime is " + total;
 var economy = "Your contribution to society and to the state's economy for a lifetime of smoking is " + grand;
+vacation = 1000
 alert(smoking);
 alert(economy);
-if(smoking > 1000){alert("Just think of the vacations you could have enjoyed with the family or buying that new toys you had your eye on");
+if(smoking > vacation){alert("Just think of the vacations you could have enjoyed with the family or buying that new toys you had your eye on");
 }
 alert("The real cost of smoking is your health and life.");
 alert("Are you ready to be a Quitter?");

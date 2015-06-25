@@ -269,14 +269,14 @@ legend {
 	text-transform: uppercase;
 	padding: 5px;
 }
-.title {
+label {
 	width: 100px;
 	float: left;
 	text-align: right;
 	margin-right: 15px;
 }
 .radio-buttons label {
-	float: none;
+	float: left;
 }
 .submit {
 	text-align: left;
